@@ -1,1 +1,248 @@
+:root {
+  --navy: #08233f;
+  --navy-dark: #03182d;
+  --cream: #fbf7f1;
+  --pink: #d77797;
+  --green: #6f956e;
+  --purple: #a675a8;
+  --orange: #ed9b37;
+  --blue: #4e91b8;
+  --text: #182538;
+  --muted: #5e6572;
+  --border: rgba(215, 119, 151, 0.45);
+  --shadow: 0 24px 60px rgba(8, 35, 63, 0.14);
+}
 
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: var(--text);
+  background: var(--cream);
+}
+
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 22px 7vw;
+  background: var(--navy-dark);
+  border-bottom: 1px solid rgba(255,255,255,0.12);
+}
+
+.nav-logo {
+  width: 180px;
+  max-width: 45vw;
+}
+
+nav {
+  display: flex;
+  gap: 28px;
+}
+
+nav a,
+.socials a {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.hero {
+  min-height: 620px;
+  display: grid;
+  grid-template-columns: 1.05fr 0.95fr;
+  align-items: center;
+  gap: 40px;
+  padding: 70px 7vw;
+  background:
+    radial-gradient(circle at 85% 20%, rgba(215,119,151,0.2), transparent 32%),
+    linear-gradient(135deg, var(--navy-dark), var(--navy));
+  color: white;
+}
+
+.eyebrow {
+  color: var(--pink);
+  text-transform: uppercase;
+  letter-spacing: 0.22em;
+  font-weight: 800;
+  font-size: 0.78rem;
+}
+
+h1, h2, h3 {
+  margin: 0;
+  line-height: 1.05;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2.9rem, 7vw, 6.2rem);
+  max-width: 760px;
+}
+
+.hero-text {
+  font-size: 1.15rem;
+  line-height: 1.65;
+  max-width: 620px;
+  margin: 28px 0;
+}
+
+.buttons {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.button {
+  display: inline-block;
+  padding: 15px 24px;
+  border-radius: 8px;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.primary {
+  background: var(--pink);
+  color: white;
+}
+
+.secondary {
+  border: 1px solid rgba(255,255,255,0.45);
+  color: white;
+}
+
+.hero-image img {
+  width: 100%;
+  border-radius: 28px;
+  box-shadow: var(--shadow);
+  object-fit: cover;
+}
+
+.focus-section {
+  padding: 70px 7vw 40px;
+}
+
+.centered {
+  text-align: center;
+}
+
+.focus-section h2 {
+  max-width: 850px;
+  margin: 0 auto 38px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", serif;
+  color: var(--navy);
+  font-size: clamp(2rem, 4vw, 3.4rem);
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+}
+
+.card {
+  min-height: 175px;
+  background: rgba(255,255,255,0.72);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 26px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow);
+}
+
+.card h3 {
+  color: var(--navy);
+  font-size: 1.25rem;
+  margin-bottom: 18px;
+}
+
+.card p {
+  color: var(--muted);
+  line-height: 1.55;
+  margin: 0;
+}
+
+.featured {
+  background: linear-gradient(135deg, rgba(215,119,151,0.12), rgba(111,149,110,0.12));
+}
+
+.coming-soon {
+  margin: 40px 7vw 70px;
+  padding: 34px;
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 34px;
+  align-items: center;
+  background: white;
+  border-radius: 18px;
+  box-shadow: var(--shadow);
+}
+
+.coming-soon img {
+  width: 100%;
+}
+
+.coming-soon h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  color: var(--navy);
+  font-size: clamp(2rem, 4vw, 3rem);
+}
+
+.coming-soon p {
+  line-height: 1.65;
+  color: var(--muted);
+}
+
+footer {
+  padding: 34px 7vw;
+  background: var(--navy-dark);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.socials {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 900px) {
+  .site-header {
+    align-items: flex-start;
+    gap: 20px;
+    flex-direction: column;
+  }
+
+  nav {
+    gap: 18px;
+    flex-wrap: wrap;
+  }
+
+  .hero {
+    grid-template-columns: 1fr;
+    padding-top: 54px;
+  }
+
+  .cards {
+    grid-template-columns: 1fr;
+  }
+
+  .coming-soon {
+    grid-template-columns: 1fr;
+  }
+
+  .coming-soon img {
+    max-width: 220px;
+  }
+}
