@@ -483,8 +483,10 @@ h3 {
   font-size: 0.98rem;
 }
 
+/* Smaller Presented At section */
+
 .presented-section {
-  padding: 44px 7vw;
+  padding: 30px 7vw 24px;
   background: var(--cream);
 }
 
@@ -492,39 +494,41 @@ h3 {
 .sessions-section h2,
 .speaking-contact h2 {
   max-width: 850px;
-  margin: 0 auto 30px;
+  margin: 0 auto 24px;
   text-align: center;
   font-family: Georgia, "Times New Roman", serif;
   color: var(--navy);
-  font-size: clamp(1.75rem, 3vw, 2.55rem);
+  font-size: clamp(1.65rem, 2.8vw, 2.35rem);
 }
 
 .presented-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 18px;
-  max-width: 1050px;
+  gap: 10px;
+  max-width: 900px;
   margin: 0 auto;
 }
 
 .presented-card {
   background: rgba(255, 255, 255, 0.78);
   border: 1px solid var(--border);
-  border-radius: 14px;
-  padding: 22px;
-  box-shadow: 0 12px 34px rgba(8, 35, 63, 0.08);
+  border-radius: 12px;
+  padding: 14px 16px;
+  box-shadow: 0 8px 22px rgba(8, 35, 63, 0.06);
 }
 
 .presented-card h3 {
   color: var(--navy);
-  font-size: 1rem;
-  margin-bottom: 10px;
+  font-size: 0.82rem;
+  margin-bottom: 6px;
+  line-height: 1.15;
 }
 
 .presented-card p {
   color: var(--muted);
   margin: 0;
   font-weight: 800;
+  font-size: 0.82rem;
 }
 
 .featured-presented {
