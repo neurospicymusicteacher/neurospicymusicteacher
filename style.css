@@ -486,11 +486,23 @@ h3 {
 /* Smaller Presented At section */
 
 .presented-section {
-  padding: 30px 7vw 24px;
+  padding: 22px 7vw 18px;
   background: var(--cream);
 }
 
-.presented-section h2,
+.presented-section .eyebrow {
+  margin-bottom: 10px;
+}
+
+.presented-section h2 {
+  max-width: 850px;
+  margin: 0 auto 18px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", serif;
+  color: var(--navy);
+  font-size: clamp(1.45rem, 2.5vw, 2rem);
+}
+
 .sessions-section h2,
 .speaking-contact h2 {
   max-width: 850px;
@@ -504,23 +516,28 @@ h3 {
 .presented-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
-  max-width: 900px;
+  gap: 8px;
+  max-width: 760px;
   margin: 0 auto;
 }
 
 .presented-card {
   background: rgba(255, 255, 255, 0.78);
   border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: 14px 16px;
-  box-shadow: 0 8px 22px rgba(8, 35, 63, 0.06);
+  border-radius: 10px;
+  padding: 10px 12px;
+  min-height: 78px;
+  box-shadow: 0 6px 16px rgba(8, 35, 63, 0.05);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .presented-card h3 {
   color: var(--navy);
-  font-size: 0.82rem;
-  margin-bottom: 6px;
+  font-size: 0.68rem;
+  margin-bottom: 5px;
   line-height: 1.15;
 }
 
@@ -528,7 +545,8 @@ h3 {
   color: var(--muted);
   margin: 0;
   font-weight: 800;
-  font-size: 0.82rem;
+  font-size: 0.72rem;
+  line-height: 1.15;
 }
 
 .featured-presented {
@@ -536,7 +554,7 @@ h3 {
 }
 
 .sessions-section {
-  padding: 58px 7vw;
+  padding: 50px 7vw 58px;
   background:
     radial-gradient(circle at 8% 20%, rgba(166, 117, 168, 0.12), transparent 26%),
     radial-gradient(circle at 92% 8%, rgba(237, 155, 55, 0.12), transparent 26%),
@@ -743,7 +761,7 @@ footer {
   }
 
   .presented-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
 
   .session-card summary {
@@ -814,7 +832,11 @@ footer {
     padding: 26px;
   }
 
-  .presented-grid,
+  .presented-grid {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 520px;
+  }
+
   .session-detail-grid {
     grid-template-columns: 1fr;
   }
@@ -835,5 +857,10 @@ footer {
 
   .link-card {
     min-height: auto;
+  }
+
+  .presented-grid {
+    grid-template-columns: 1fr;
+    max-width: 320px;
   }
 }
