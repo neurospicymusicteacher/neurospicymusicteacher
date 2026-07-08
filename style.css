@@ -858,7 +858,413 @@ footer {
   .link-card {
     min-height: auto;
   }
+/* The Downbeat page */
 
+.downbeat-topper {
+  padding: 22px 7vw;
+  background: var(--cream);
+  border-bottom: 1px solid rgba(8, 35, 63, 0.12);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  text-align: center;
+}
+
+.downbeat-topper img {
+  width: 88px;
+  height: 88px;
+  object-fit: contain;
+  border-radius: 999px;
+}
+
+.downbeat-topper p {
+  margin: 0;
+  color: var(--navy);
+  font-weight: 900;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+.downbeat-hero {
+  padding: 64px 7vw;
+  background:
+    radial-gradient(circle at 15% 18%, rgba(215, 119, 151, 0.18), transparent 32%),
+    radial-gradient(circle at 82% 24%, rgba(111, 149, 110, 0.18), transparent 34%),
+    linear-gradient(135deg, var(--navy-dark), var(--navy));
+  color: var(--cream);
+  text-align: center;
+}
+
+.downbeat-hero-content {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.downbeat-hero h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2.6rem, 6vw, 5.5rem);
+  margin: 0;
+  color: var(--cream);
+}
+
+.downbeat-subtitle {
+  font-size: clamp(1.2rem, 2.2vw, 1.8rem);
+  margin: 12px auto 20px;
+  color: rgba(251, 247, 241, 0.92);
+}
+
+.downbeat-lead {
+  display: inline-block;
+  margin: 8px auto 18px;
+  padding: 14px 22px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 14px;
+  color: white;
+  font-weight: 900;
+  font-size: 1.15rem;
+}
+
+.downbeat-description {
+  max-width: 800px;
+  margin: 0 auto 28px;
+  color: rgba(251, 247, 241, 0.9);
+  line-height: 1.65;
+  font-size: 1.04rem;
+}
+
+.downbeat-stats {
+  max-width: 860px;
+  margin: 38px auto 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+}
+
+.downbeat-stats div {
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 16px;
+  padding: 20px;
+}
+
+.downbeat-stats strong {
+  display: block;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2rem;
+  color: white;
+}
+
+.downbeat-stats span {
+  display: block;
+  color: rgba(251, 247, 241, 0.88);
+  font-weight: 800;
+  font-size: 0.9rem;
+}
+
+.downbeat-section {
+  padding: 64px 7vw;
+  background: var(--cream);
+}
+
+.downbeat-section h2,
+.pricing-section h2,
+.registration-section h2 {
+  max-width: 850px;
+  margin: 0 auto 26px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", serif;
+  color: var(--navy);
+  font-size: clamp(1.8rem, 3.3vw, 3rem);
+}
+
+.downbeat-copy-card {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 32px;
+  background: white;
+  border: 1px solid rgba(215, 119, 151, 0.28);
+  border-radius: 18px;
+  box-shadow: var(--shadow);
+}
+
+.downbeat-copy-card p {
+  color: var(--muted);
+  line-height: 1.7;
+  font-size: 1rem;
+}
+
+.downbeat-two-column {
+  max-width: 1000px;
+  margin: 28px auto 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+}
+
+.downbeat-info-card,
+.support-card,
+.pricing-card {
+  background: rgba(255, 255, 255, 0.82);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 26px;
+  box-shadow: 0 12px 30px rgba(8, 35, 63, 0.08);
+}
+
+.downbeat-info-card h3,
+.support-card h3,
+.pricing-card h3 {
+  color: var(--navy);
+  font-size: 1.35rem;
+  margin-bottom: 14px;
+}
+
+.downbeat-info-card ul,
+.support-card ul {
+  margin: 0;
+  padding-left: 20px;
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+.support-section {
+  background:
+    radial-gradient(circle at 10% 20%, rgba(166, 117, 168, 0.12), transparent 28%),
+    radial-gradient(circle at 90% 20%, rgba(111, 149, 110, 0.12), transparent 30%),
+    var(--cream);
+}
+
+.support-grid {
+  max-width: 1050px;
+  margin: 0 auto 28px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+}
+
+.support-card p {
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+.support-label {
+  color: var(--pink) !important;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.72rem;
+  font-weight: 900;
+  margin-top: 0;
+}
+
+.featured-support,
+.featured-pricing {
+  background: linear-gradient(135deg, rgba(215, 119, 151, 0.14), rgba(111, 149, 110, 0.12));
+}
+
+.limited-note {
+  display: inline-block;
+  padding: 10px 14px;
+  border-radius: 999px;
+  background: rgba(237, 155, 55, 0.14);
+  color: var(--navy) !important;
+  font-weight: 900;
+}
+
+.downbeat-table-wrap,
+.schedule-table-wrap {
+  max-width: 1050px;
+  margin: 0 auto;
+  overflow-x: auto;
+}
+
+.downbeat-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  box-shadow: 0 10px 26px rgba(8, 35, 63, 0.08);
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.downbeat-table th {
+  background: var(--navy);
+  color: white;
+  text-align: left;
+  padding: 14px;
+  font-size: 0.9rem;
+}
+
+.downbeat-table td {
+  padding: 13px 14px;
+  border-bottom: 1px solid rgba(8, 35, 63, 0.08);
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.downbeat-table tr:nth-child(even) td {
+  background: rgba(251, 247, 241, 0.75);
+}
+
+.downbeat-intro {
+  max-width: 760px;
+  margin: -8px auto 28px;
+  text-align: center;
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+.topics-grid {
+  max-width: 1050px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+.topics-grid article {
+  background: rgba(255, 255, 255, 0.82);
+  border: 1px solid rgba(215, 119, 151, 0.25);
+  border-radius: 12px;
+  padding: 16px;
+  color: var(--navy);
+  font-weight: 800;
+  line-height: 1.3;
+}
+
+.topics-grid strong {
+  color: var(--pink);
+}
+
+.compact-section {
+  padding-top: 24px;
+}
+
+.downbeat-details {
+  max-width: 1050px;
+  margin: 0 auto;
+  background: white;
+  border: 1px solid rgba(215, 119, 151, 0.35);
+  border-radius: 18px;
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.downbeat-details summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 26px;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 22px;
+  align-items: center;
+}
+
+.downbeat-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.downbeat-details h2 {
+  text-align: left;
+  margin: 0 0 8px;
+  font-size: clamp(1.5rem, 2.5vw, 2.2rem);
+}
+
+.downbeat-details p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.schedule-table-wrap {
+  padding: 0 26px 26px;
+}
+
+.pricing-section {
+  padding: 64px 7vw;
+  background:
+    radial-gradient(circle at 12% 18%, rgba(215, 119, 151, 0.14), transparent 28%),
+    radial-gradient(circle at 88% 20%, rgba(111, 149, 110, 0.14), transparent 30%),
+    var(--cream);
+}
+
+.pricing-grid {
+  max-width: 900px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+}
+
+.pricing-card {
+  text-align: center;
+}
+
+.price {
+  margin: 18px 0 8px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2.4rem;
+  color: var(--navy);
+  font-weight: 900;
+}
+
+.payment-plan {
+  color: var(--muted);
+  font-weight: 800;
+  margin-bottom: 24px;
+}
+
+.registration-section {
+  padding: 64px 7vw 80px;
+  background: var(--cream);
+}
+
+.navy-secondary {
+  border-color: rgba(8, 35, 63, 0.2);
+  color: var(--navy);
+  background: rgba(8, 35, 63, 0.06);
+}
+
+@media (max-width: 900px) {
+  .downbeat-stats,
+  .downbeat-two-column,
+  .support-grid,
+  .pricing-grid,
+  .topics-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .downbeat-details summary {
+    grid-template-columns: 1fr;
+  }
+
+  .downbeat-details h2 {
+    text-align: center;
+  }
+}
+
+@media (max-width: 700px) {
+  .downbeat-topper {
+    flex-direction: column;
+  }
+
+  .downbeat-hero,
+  .downbeat-section,
+  .pricing-section,
+  .registration-section {
+    padding-left: 7vw;
+    padding-right: 7vw;
+  }
+
+  .downbeat-copy-card,
+  .downbeat-info-card,
+  .support-card,
+  .pricing-card {
+    padding: 24px;
+  }
+}
   .presented-grid {
     grid-template-columns: 1fr;
     max-width: 320px;
