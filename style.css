@@ -1790,3 +1790,61 @@ footer {
   line-height: 1.6;
   font-size: 0.95rem;
 }
+/* Downbeat YouTube video section fix */
+
+.downbeat-video-section {
+  padding: 18px 7vw 48px !important;
+  background: var(--cream) !important;
+  text-align: center !important;
+}
+
+.downbeat-video-section .eyebrow {
+  text-align: center !important;
+  margin-bottom: 10px !important;
+}
+
+.downbeat-video-section h2 {
+  max-width: 720px !important;
+  margin: 0 auto 24px !important;
+  text-align: center !important;
+  font-family: Georgia, "Times New Roman", serif !important;
+  color: var(--navy) !important;
+  font-size: clamp(1.65rem, 2.7vw, 2.35rem) !important;
+  line-height: 1.08 !important;
+}
+
+.downbeat-video-card {
+  max-width: 620px !important;
+  margin: 0 auto !important;
+  padding: 22px !important;
+  background: white !important;
+  border: 1px solid rgba(215, 119, 151, 0.28) !important;
+  border-radius: 18px !important;
+  box-shadow: 0 14px 36px rgba(8, 35, 63, 0.09) !important;
+  text-align: center !important;
+}
+
+.video-wrapper {
+  position: relative !important;
+  width: 100% !important;
+  aspect-ratio: 16 / 9 !important;
+  border-radius: 14px !important;
+  overflow: hidden !important;
+  background: var(--navy) !important;
+}
+
+.video-wrapper iframe {
+  position: absolute !important;
+  inset: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  border: 0 !important;
+}
+
+.downbeat-video-card p {
+  max-width: 520px !important;
+  margin: 18px auto 0 !important;
+  color: var(--muted) !important;
+  line-height: 1.6 !important;
+  font-size: 0.95rem !important;
+}
