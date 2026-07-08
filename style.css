@@ -1270,3 +1270,437 @@ footer {
     max-width: 320px;
   }
 }
+/* Downbeat landing page final override */
+
+.downbeat-jump-section,
+.downbeat-topper {
+  display: none !important;
+}
+
+.downbeat-hero {
+  padding: 56px 7vw 52px !important;
+  background:
+    radial-gradient(circle at 15% 15%, rgba(215, 119, 151, 0.22), transparent 32%),
+    radial-gradient(circle at 88% 20%, rgba(111, 149, 110, 0.2), transparent 34%),
+    linear-gradient(135deg, var(--navy-dark), var(--navy)) !important;
+  color: var(--cream) !important;
+  text-align: center !important;
+}
+
+.downbeat-hero-content {
+  max-width: 900px !important;
+  margin: 0 auto !important;
+}
+
+.downbeat-logo {
+  width: min(210px, 48vw) !important;
+  display: block !important;
+  margin: 0 auto 22px !important;
+  border-radius: 999px !important;
+  box-shadow: 0 18px 48px rgba(0, 0, 0, 0.2) !important;
+  background: rgba(251, 247, 241, 0.96) !important;
+  padding: 8px !important;
+}
+
+.downbeat-hero h1 {
+  font-family: Georgia, "Times New Roman", serif !important;
+  font-size: clamp(2.7rem, 6vw, 5.1rem) !important;
+  line-height: 0.98 !important;
+  margin: 6px auto 12px !important;
+  color: var(--cream) !important;
+  max-width: 900px !important;
+}
+
+.downbeat-subtitle {
+  max-width: 740px !important;
+  margin: 0 auto 18px !important;
+  color: rgba(251, 247, 241, 0.92) !important;
+  font-size: clamp(1.1rem, 2vw, 1.5rem) !important;
+  line-height: 1.45 !important;
+}
+
+.downbeat-lead {
+  display: inline-block !important;
+  margin: 8px auto 18px !important;
+  padding: 12px 20px !important;
+  border-radius: 999px !important;
+  background: rgba(215, 119, 151, 0.92) !important;
+  color: white !important;
+  font-weight: 900 !important;
+  font-size: 1rem !important;
+}
+
+.downbeat-description {
+  max-width: 760px !important;
+  margin: 0 auto 26px !important;
+  color: rgba(251, 247, 241, 0.9) !important;
+  line-height: 1.65 !important;
+  font-size: 1rem !important;
+}
+
+.downbeat-stats {
+  max-width: 760px !important;
+  margin: 34px auto 0 !important;
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr) !important;
+  gap: 12px !important;
+}
+
+.downbeat-stats div {
+  padding: 16px 14px !important;
+  border-radius: 14px !important;
+  background: rgba(251, 247, 241, 0.1) !important;
+  border: 1px solid rgba(251, 247, 241, 0.24) !important;
+}
+
+.downbeat-stats strong {
+  display: block !important;
+  font-family: Georgia, "Times New Roman", serif !important;
+  font-size: 1.65rem !important;
+  color: white !important;
+  margin-bottom: 4px !important;
+}
+
+.downbeat-stats span {
+  display: block !important;
+  color: rgba(251, 247, 241, 0.9) !important;
+  font-size: 0.82rem !important;
+  font-weight: 800 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.04em !important;
+}
+
+.downbeat-section,
+.pricing-section,
+.registration-section {
+  padding: 48px 7vw !important;
+  background: var(--cream) !important;
+}
+
+.downbeat-section h2,
+.pricing-section h2,
+.registration-section h2 {
+  max-width: 780px !important;
+  margin: 0 auto 22px !important;
+  text-align: center !important;
+  font-family: Georgia, "Times New Roman", serif !important;
+  color: var(--navy) !important;
+  font-size: clamp(1.75rem, 3vw, 2.55rem) !important;
+  line-height: 1.05 !important;
+}
+
+.downbeat-copy-card {
+  max-width: 900px !important;
+  margin: 0 auto !important;
+  padding: 28px !important;
+  background: white !important;
+  border: 1px solid rgba(215, 119, 151, 0.28) !important;
+  border-radius: 18px !important;
+  box-shadow: 0 14px 36px rgba(8, 35, 63, 0.09) !important;
+}
+
+.downbeat-copy-card p {
+  color: var(--muted) !important;
+  line-height: 1.65 !important;
+  font-size: 0.98rem !important;
+}
+
+.downbeat-intro {
+  max-width: 720px !important;
+  margin: -8px auto 26px !important;
+  text-align: center !important;
+  color: var(--muted) !important;
+  line-height: 1.6 !important;
+  font-size: 0.96rem !important;
+}
+
+.pricing-grid {
+  max-width: 900px !important;
+  margin: 0 auto !important;
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  gap: 18px !important;
+}
+
+.pricing-card {
+  padding: 26px !important;
+  text-align: center !important;
+  background: rgba(255, 255, 255, 0.84) !important;
+  border: 1px solid rgba(215, 119, 151, 0.36) !important;
+  border-radius: 18px !important;
+  box-shadow: 0 14px 36px rgba(8, 35, 63, 0.09) !important;
+}
+
+.pricing-card h3 {
+  color: var(--navy) !important;
+  font-size: 1.45rem !important;
+  margin-bottom: 12px !important;
+}
+
+.pricing-card p {
+  color: var(--muted) !important;
+  line-height: 1.55 !important;
+}
+
+.price {
+  margin: 14px 0 4px !important;
+  font-family: Georgia, "Times New Roman", serif !important;
+  font-size: clamp(2.1rem, 4vw, 3rem) !important;
+  color: var(--navy) !important;
+  font-weight: 900 !important;
+}
+
+.payment-plan {
+  margin: 0 0 18px !important;
+  font-weight: 800 !important;
+  color: var(--muted) !important;
+}
+
+.featured-pricing,
+.featured-support {
+  background: linear-gradient(135deg, rgba(215, 119, 151, 0.14), rgba(111, 149, 110, 0.12)) !important;
+}
+
+.support-label {
+  color: var(--pink) !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.14em !important;
+  font-size: 0.68rem !important;
+  font-weight: 900 !important;
+  margin: 0 0 10px !important;
+}
+
+.limited-note {
+  display: inline-block !important;
+  margin: 8px auto 14px !important;
+  padding: 9px 13px !important;
+  border-radius: 999px !important;
+  background: rgba(237, 155, 55, 0.14) !important;
+  color: var(--navy) !important;
+  font-weight: 900 !important;
+  font-size: 0.88rem !important;
+}
+
+.downbeat-accordion-list {
+  max-width: 920px !important;
+  margin: 0 auto !important;
+  display: grid !important;
+  gap: 16px !important;
+}
+
+.downbeat-details {
+  background: rgba(255, 255, 255, 0.88) !important;
+  border: 1px solid rgba(215, 119, 151, 0.36) !important;
+  border-radius: 18px !important;
+  box-shadow: 0 14px 36px rgba(8, 35, 63, 0.09) !important;
+  overflow: hidden !important;
+}
+
+.downbeat-details summary {
+  list-style: none !important;
+  cursor: pointer !important;
+  padding: 22px 24px !important;
+  display: grid !important;
+  grid-template-columns: 1fr auto !important;
+  gap: 20px !important;
+  align-items: center !important;
+}
+
+.downbeat-details summary::-webkit-details-marker {
+  display: none !important;
+}
+
+.downbeat-details summary h3 {
+  color: var(--navy) !important;
+  font-size: clamp(1.2rem, 2vw, 1.55rem) !important;
+  margin: 0 0 8px !important;
+}
+
+.downbeat-details summary p {
+  margin: 0 !important;
+  color: var(--muted) !important;
+  line-height: 1.5 !important;
+  font-size: 0.94rem !important;
+}
+
+.downbeat-toggle {
+  color: white !important;
+  background: var(--navy) !important;
+  border-radius: 999px !important;
+  padding: 10px 15px !important;
+  font-size: 0.8rem !important;
+  font-weight: 900 !important;
+  white-space: nowrap !important;
+  box-shadow: 0 8px 20px rgba(8, 35, 63, 0.16) !important;
+}
+
+.downbeat-details[open] .downbeat-toggle {
+  background: var(--pink) !important;
+}
+
+.downbeat-details[open] .downbeat-toggle::after {
+  content: " open";
+}
+
+.downbeat-details-content {
+  padding: 0 24px 26px !important;
+  border-top: 1px solid rgba(8, 35, 63, 0.08) !important;
+}
+
+.downbeat-details-content p {
+  color: var(--muted) !important;
+  line-height: 1.65 !important;
+  font-size: 0.96rem !important;
+}
+
+.downbeat-two-column,
+.support-grid {
+  max-width: 100% !important;
+  margin: 22px auto 0 !important;
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  gap: 16px !important;
+}
+
+.downbeat-info-card,
+.support-card {
+  padding: 22px !important;
+  background: rgba(251, 247, 241, 0.9) !important;
+  border: 1px solid rgba(8, 35, 63, 0.08) !important;
+  border-radius: 14px !important;
+  box-shadow: none !important;
+}
+
+.downbeat-info-card h4,
+.support-card h4 {
+  color: var(--navy) !important;
+  font-size: 1.12rem !important;
+  margin: 0 0 12px !important;
+}
+
+.downbeat-info-card ul,
+.support-card ul {
+  margin: 0 !important;
+  padding-left: 19px !important;
+  color: var(--muted) !important;
+  line-height: 1.55 !important;
+  font-size: 0.94rem !important;
+}
+
+.support-card p {
+  color: var(--muted) !important;
+  line-height: 1.55 !important;
+  font-size: 0.94rem !important;
+}
+
+.downbeat-table-wrap,
+.schedule-table-wrap {
+  max-width: 100% !important;
+  margin: 22px auto 0 !important;
+  overflow-x: auto !important;
+}
+
+.downbeat-table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  background: white !important;
+  border-radius: 12px !important;
+  overflow: hidden !important;
+  box-shadow: 0 8px 22px rgba(8, 35, 63, 0.08) !important;
+}
+
+.downbeat-table th {
+  background: var(--navy) !important;
+  color: white !important;
+  text-align: left !important;
+  padding: 12px !important;
+  font-size: 0.82rem !important;
+}
+
+.downbeat-table td {
+  padding: 11px 12px !important;
+  border-bottom: 1px solid rgba(8, 35, 63, 0.08) !important;
+  color: var(--muted) !important;
+  font-size: 0.86rem !important;
+}
+
+.downbeat-table tr:nth-child(even) td {
+  background: rgba(251, 247, 241, 0.75) !important;
+}
+
+.topics-grid {
+  max-width: 100% !important;
+  margin: 22px auto 0 !important;
+  display: grid !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  gap: 10px !important;
+}
+
+.topics-grid article {
+  background: rgba(251, 247, 241, 0.95) !important;
+  border: 1px solid rgba(215, 119, 151, 0.25) !important;
+  border-radius: 12px !important;
+  padding: 13px !important;
+  color: var(--navy) !important;
+  font-weight: 800 !important;
+  line-height: 1.28 !important;
+  font-size: 0.88rem !important;
+}
+
+.topics-grid strong {
+  color: var(--pink) !important;
+}
+
+.registration-section .buttons {
+  justify-content: center !important;
+}
+
+.navy-secondary {
+  border-color: rgba(8, 35, 63, 0.2) !important;
+  color: var(--navy) !important;
+  background: rgba(8, 35, 63, 0.06) !important;
+}
+
+@media (max-width: 900px) {
+  .downbeat-stats,
+  .pricing-grid,
+  .downbeat-two-column,
+  .support-grid,
+  .topics-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .downbeat-details summary {
+    grid-template-columns: 1fr !important;
+  }
+
+  .downbeat-toggle {
+    width: fit-content !important;
+  }
+
+  .downbeat-logo {
+    width: min(200px, 62vw) !important;
+  }
+}
+
+@media (max-width: 650px) {
+  .downbeat-hero {
+    padding: 44px 7vw 40px !important;
+  }
+
+  .downbeat-logo {
+    width: min(180px, 70vw) !important;
+  }
+
+  .downbeat-copy-card,
+  .pricing-card,
+  .downbeat-details summary,
+  .downbeat-details-content {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+
+  .downbeat-stats div {
+    padding: 14px !important;
+  }
+}
