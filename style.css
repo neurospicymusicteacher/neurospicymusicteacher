@@ -1704,3 +1704,38 @@ footer {
     padding: 14px !important;
   }
 }
+/* Homepage card status labels */
+
+.card-status {
+  display: inline-block;
+  margin-bottom: 16px;
+  padding: 8px 12px;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+
+.live-status {
+  background: var(--pink);
+  color: white;
+}
+
+.soon-status {
+  background: rgba(8, 35, 63, 0.08);
+  color: var(--navy);
+  border: 1px solid rgba(8, 35, 63, 0.12);
+}
+
+.live-card {
+  position: relative;
+}
+
+.live-card:hover .card-status {
+  transform: translateY(-1px);
+}
+
+.coming-soon .eyebrow {
+  text-align: left;
+}
