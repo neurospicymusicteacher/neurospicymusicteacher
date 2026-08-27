@@ -2408,7 +2408,7 @@ footer {
 
 /* Resources */
 .resources-hero {
-  padding: 64px 7vw 70px;
+  padding: 44px 7vw 52px;
   text-align: center;
   background:
     radial-gradient(circle at 16% 20%, rgba(215, 119, 151, 0.2), transparent 31%),
@@ -2418,12 +2418,12 @@ footer {
 }
 
 .resources-hero img {
-  width: min(190px, 48vw);
+  width: min(112px, 30vw);
   display: block;
-  margin: 0 auto 24px;
+  margin: 0 auto 18px;
   border-radius: 999px;
   background: var(--cream);
-  padding: 6px;
+  padding: 4px;
   box-shadow: 0 16px 38px rgba(0, 0, 0, 0.18);
 }
 
@@ -2717,6 +2717,15 @@ footer {
 }
 
 @media (max-width: 620px) {
+  .resources-hero {
+    padding: 38px 7vw 48px;
+  }
+
+  .resources-hero img {
+    width: min(96px, 30vw);
+    margin-bottom: 16px;
+  }
+
   .resources-featured-copy {
     padding: 32px 24px;
   }
