@@ -539,33 +539,62 @@ h3 {
   font-size: clamp(2rem, 3.8vw, 3.25rem);
 }
 
-.rates-card {
+.university-bottom-grid {
   width: 100%;
-  max-width: 780px;
+  max-width: 1050px;
   margin: 0 auto;
-  padding: 32px;
-  border-radius: 18px;
-  background: var(--navy);
-  color: var(--cream);
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
 }
 
-.rates-card p,
-.rates-card li {
-  color: var(--cream);
+.university-info-card {
+  padding: 32px;
+  border: 1px solid rgba(111, 149, 110, 0.3);
+  border-radius: 18px;
+  background: rgba(111, 149, 110, 0.08);
+}
+
+.university-info-card h3 {
+  margin: 0 0 14px;
+  color: var(--navy);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.35rem, 2.2vw, 1.8rem);
+  line-height: 1.2;
+}
+
+.university-info-card p,
+.university-info-card li {
+  color: var(--muted);
   line-height: 1.68;
 }
 
-.rates-card ul {
+.university-info-card p:last-child {
+  margin-bottom: 0;
+}
+
+.university-rates-card {
+  background: var(--navy);
+  border-color: var(--navy);
+}
+
+.university-rates-card h3,
+.university-rates-card p,
+.university-rates-card li {
+  color: var(--cream);
+}
+
+.university-rates-card .eyebrow {
+  color: var(--pink);
+}
+
+.university-rates-card ul {
   margin: 20px 0;
   padding-left: 1.25rem;
 }
 
-.rates-card li + li {
+.university-rates-card li + li {
   margin-top: 8px;
-}
-
-.rates-card p:last-child {
-  margin-bottom: 0;
 }
 
 .rates-lead {
@@ -844,7 +873,11 @@ footer {
     padding: 22px;
   }
 
-  .rates-card {
+  .university-bottom-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .university-info-card {
     padding: 24px;
   }
 
