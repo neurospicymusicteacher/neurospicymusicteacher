@@ -19,6 +19,8 @@
 
 body {
   margin: 0;
+  max-width: 100%;
+  overflow-x: hidden;
   font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   color: var(--text);
   background: var(--cream);
@@ -578,38 +580,12 @@ h3 {
   line-height: 1.7;
 }
 
-.university-session-grid {
-  max-width: 1160px;
+.university-session-list {
+  width: 100%;
+  max-width: 1050px;
   margin: 0 auto;
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 20px;
 }
 
-.university-session-card {
-  padding: 28px;
-  border: 1px solid rgba(8, 35, 63, 0.12);
-  border-radius: 18px;
-  background: var(--cream);
-  box-shadow: 0 12px 30px rgba(8, 35, 63, 0.08);
-}
-
-.university-session-featured {
-  grid-column: 1 / -1;
-  background: linear-gradient(135deg, rgba(215, 119, 151, 0.13), rgba(78, 145, 184, 0.1));
-  border-color: rgba(215, 119, 151, 0.38);
-}
-
-.university-duration {
-  margin: 0 0 12px !important;
-  color: var(--pink-dark) !important;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-size: 0.76rem !important;
-  font-weight: 900;
-}
-
-.university-session-card h3,
 .university-info-card h3 {
   margin: 0 0 14px;
   color: var(--navy);
@@ -618,14 +594,12 @@ h3 {
   line-height: 1.2;
 }
 
-.university-session-card p,
 .university-info-card p,
 .university-info-card li {
   color: var(--muted);
   line-height: 1.68;
 }
 
-.university-session-card p:last-child,
 .university-info-card p:last-child {
   margin-bottom: 0;
 }
@@ -641,7 +615,8 @@ h3 {
 }
 
 .university-bottom-grid {
-  max-width: 1160px;
+  width: 100%;
+  max-width: 1050px;
   margin: 24px auto 0;
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -686,7 +661,8 @@ h3 {
 }
 
 .university-cta {
-  max-width: 1160px;
+  width: 100%;
+  max-width: 1050px;
   margin: 26px auto 0;
   display: flex;
   align-items: center;
@@ -745,6 +721,10 @@ h3 {
   align-items: center;
 }
 
+.session-card summary > div {
+  min-width: 0;
+}
+
 .session-card summary::-webkit-details-marker {
   display: none;
 }
@@ -753,9 +733,10 @@ h3 {
   color: var(--navy);
   font-size: clamp(1.25rem, 2vw, 1.65rem);
   margin-bottom: 6px;
+  overflow-wrap: anywhere;
 }
 
-.session-subtitle {
+.session-card summary .session-subtitle {
   color: var(--pink);
   font-weight: 900;
   margin: 0 0 12px;
@@ -959,6 +940,10 @@ footer {
     grid-template-columns: 1fr;
   }
 
+  .university-bottom-grid {
+    grid-template-columns: 1fr;
+  }
+
   .coming-soon {
     grid-template-columns: 1fr;
   }
@@ -991,16 +976,10 @@ footer {
     grid-template-columns: 1fr;
   }
 
-  .university-session-grid,
-  .university-bottom-grid {
-    grid-template-columns: 1fr;
+  .university-section {
+    padding: 44px 5vw 52px;
   }
 
-  .university-session-featured {
-    grid-column: auto;
-  }
-
-  .university-session-card,
   .university-info-card {
     padding: 22px;
   }
