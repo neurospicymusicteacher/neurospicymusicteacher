@@ -604,6 +604,11 @@ h3 {
   font-size: 1.15rem;
 }
 
+.university-rates-card .rates-budget-note {
+  font-size: 1.08rem;
+  font-weight: 800;
+}
+
 .session-card {
   background: rgba(255, 255, 255, 0.86);
   border: 1px solid rgba(215, 119, 151, 0.35);
