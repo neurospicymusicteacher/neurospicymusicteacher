@@ -38,3 +38,10 @@ The guide starts without requiring prior article reading. It supports staff unde
 The main guide is six pages: context, four practical steps and a short resource selector. Ten individual handouts are each one page. The bibliography is a separate four-page reading list. All downloads and the two editable message files were replaced together; stable URLs are retained.
 
 Editable handout wording is in `handouts/content.json`. The current local builder is `work/build_friendly_printables.py`; earlier report-style builders should not be used. Online handouts, the parent guide and the printables page now match the download content. Full-text/abstract checking records remain in the research source data for editorial use, rather than being displayed as parent-facing disclaimers.
+
+
+## Educator library and PDA language article
+
+The educator/admin landing page is `educators.html`. Use that URL (with section anchors when helpful) for teacher-facing resource announcements. It is explicitly a growing library, with current resources separated from planned additions. The linked public YouTube playlist is `https://www.youtube.com/playlist?list=PLYnKKM04PcuY`; its first video is `Il1Q9NblUkM`.
+
+The eleventh article explains Sarah’s preference for Persistent Drive for Autonomy, while respecting individual terminology. The AET co-produced terminology guide (pages 31 and 54) and PDA Society demand-avoidance page were checked directly and added to the bibliography. These are guidance/community perspectives, distinct from original research studies.

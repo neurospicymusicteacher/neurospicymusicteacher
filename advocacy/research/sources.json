@@ -178,5 +178,23 @@
     "scope": "Options in engagement, representation, and action or expression. Used as design guidance; not evidence that a particular music support works.",
     "checked": "Official guidance",
     "reading_note": "A practical framework for offering options in engagement, representation, and action or expression. Useful for thinking about access and participation."
+  },
+  {
+    "id": "language",
+    "citation": "Autism Education Trust. Why Words Matter: Terminology Guide, co-produced with the Autistic Young Experts Panel, pp. 31 and 54.",
+    "url": "https://www.autismeducationtrust.org.uk/sites/default/files/2024-12/terminology_guide_-_why_words_matter.pdf",
+    "kind": "Co-produced terminology guide",
+    "scope": "Autistic young people discuss language preferences, including Persistent Drive for Autonomy. Community and education perspectives.",
+    "checked": "Full guide; PDA sections pp. 31 and 54",
+    "reading_note": "A terminology guide co-produced with autistic young people. Includes different views about PDA language and why some prefer Persistent Drive for Autonomy."
+  },
+  {
+    "id": "demands",
+    "citation": "PDA Society. About demand avoidance.",
+    "url": "https://www.pdasociety.org.uk/what-is-pda/about-demand-avoidance/",
+    "kind": "Community and professional information",
+    "scope": "Explains internal and external demands, difficulty with desired activities, and variation in capacity through PDA community experiences.",
+    "checked": "Full webpage",
+    "reading_note": "Explores demands, including internal expectations and enjoyable activities, alongside accounts of what demand avoidance can feel like."
   }
 ]
