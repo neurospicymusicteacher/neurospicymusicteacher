@@ -83,10 +83,10 @@
   {
     "id": "pda",
     "citation": "Kildahl et al. (2021). Pathological demand avoidance in children and adolescents: A systematic review. Autism, 25, 2162–2176.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/34320869/",
+    "url": "https://journals.sagepub.com/doi/full/10.1177/13623613211034382",
     "kind": "Systematic review",
     "scope": "13 studies; significant methodological limitations constrain conclusions about the proposed profile. Do not present autonomy supports as a proven PDA treatment.",
-    "checked": "Abstract and publisher findings",
+    "checked": "Full-text publisher paper; abstract and discussion rechecked 25 November 2026",
     "reading_note": "Reviews 13 studies of demand avoidance in children and adolescents. Discusses how the proposed profile has been described and the research difficulties involved."
   },
   {
@@ -196,5 +196,23 @@
     "scope": "Explains internal and external demands, difficulty with desired activities, and variation in capacity through PDA community experiences.",
     "checked": "Full webpage",
     "reading_note": "Explores demands, including internal expectations and enjoyable activities, alongside accounts of what demand avoidance can feel like."
+  },
+  {
+    "id": "autonomy",
+    "citation": "Deci & Ryan (2000). The “What” and “Why” of Goal Pursuits: Human Needs and the Self-Determination of Behavior. Psychological Inquiry, 11(4), 227-268.",
+    "url": "https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf",
+    "kind": "Theoretical and research synthesis",
+    "scope": "Foundational account of autonomy, competence and relatedness as basic psychological needs in self-determination theory. Does not establish an autonomy-to-safety-to-cognition sequence or a PDA-specific mechanism.",
+    "checked": "Original full-text paper, including the needs definitions",
+    "reading_note": "Explores autonomy, competence and relatedness as basic psychological needs, and how social settings relate to motivation and well-being."
+  },
+  {
+    "id": "stress-thinking",
+    "citation": "Arnsten (2009). Stress signalling pathways that impair prefrontal cortex structure and function. Nature Reviews Neuroscience, 10, 410-422. DOI: 10.1038/nrn2648.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2907136/",
+    "kind": "Neuroscience research review",
+    "scope": "Reviews human and animal evidence on stress and prefrontal functions including working memory, attention and flexible regulation. Does not mean cognition disappears whenever a person feels unsafe.",
+    "checked": "Original full-text review; abstract and cognitive-function sections",
+    "reading_note": "Reviews how stress can affect working memory, attention and flexible thinking, drawing on human and animal research."
   }
 ]

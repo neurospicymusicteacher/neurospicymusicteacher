@@ -45,3 +45,8 @@ Editable handout wording is in `handouts/content.json`. The current local builde
 The educator/admin landing page is `educators.html`. Use that URL (with section anchors when helpful) for teacher-facing resource announcements. It is explicitly a growing library, with current resources separated from planned additions. The linked public YouTube playlist is `https://www.youtube.com/playlist?list=PLYnKKM04PcuY`; its first video is `Il1Q9NblUkM`.
 
 The eleventh article explains Sarah’s preference for Persistent Drive for Autonomy, while respecting individual terminology. The AET co-produced terminology guide (pages 31 and 54) and PDA Society demand-avoidance page were checked directly and added to the bibliography. These are guidance/community perspectives, distinct from original research studies.
+
+
+## Explaining PDA and the educator pause opening
+
+Added the parent-facing article `what-if-they-dont-believe-me.html`, with a short explanation, topic-matched research links, concrete requests and follow-up wording. The educator opening uses Sarah’s requested bold wording and frames behaviour as something to understand rather than a diagnosis. Autonomy is described as a psychological need in self-determination theory, with stress effects on working memory/attention rather than a claim that cognition disappears. Original Deci & Ryan (2000) and Arnsten (2009) papers were checked. Sarah’s Maslow Before Bloom video was verified on her channel: `Vg200W6Yk40`, approximately five minutes.

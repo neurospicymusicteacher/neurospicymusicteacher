@@ -16,3 +16,5 @@
 .library-video{width:100%;aspect-ratio:16/9;background:var(--navy);border-radius:14px;overflow:hidden}.library-video iframe{width:100%;height:100%;border:0}.resource-type{font-size:.8rem;font-weight:800;letter-spacing:.1em;color:#823d59}.library-reading li{margin:.9em 0}.library-nav a{border:1px solid #d7779780;border-radius:24px;padding:8px 14px;text-decoration:none}.library-status{max-width:78ch;padding:16px 20px;border-left:4px solid var(--pink);background:#d7779710}.hub-card .resource-type{margin-bottom:10px}
 
 .hub-intro .hub-actions .button.secondary{border:2px solid var(--navy);background:transparent;color:var(--navy)}.hub-intro .hub-actions .button.secondary:hover{background:#08233f0a}
+
+.educator-opening{max-width:76ch}.pause-key{font-size:1.2rem;line-height:1.6}.pause-questions p{font-size:1.15rem}.library-video-card{padding:28px 0;border-bottom:1px solid #08233f26}.library-video-card h3{font-size:1.45rem}
