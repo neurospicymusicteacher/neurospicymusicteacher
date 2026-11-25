@@ -1,0 +1,260 @@
+[
+  {
+    "slug": "start-here",
+    "title": "Start Here: A Family Advocacy Plan",
+    "deck": "Bring a concrete, student-informed proposal to a school conversation.",
+    "refs": [
+      "udl"
+    ],
+    "sections": [
+      [
+        "Start with the student",
+        "What do they enjoy about music? What makes school difficult? How do they prefer to communicate? Ask what they would like adults to understand. Participation should not depend on sharing private distress with a group."
+      ],
+      [
+        "Choose one reachable opportunity",
+        "Possibilities include accessible curricular music, a supervised music-room break, a low-pressure club or digital music production. Ask about staffing, sound, equipment, cost and transport. These are options to explore, not a prescribed intervention."
+      ],
+      [
+        "Write a workable agreement",
+        "Name the purpose, the responsible adult, the place and time, choices available, sensory adjustments and the backup when the usual room or adult is unavailable. Identify how the student can pause or decline."
+      ],
+      [
+        "Review more than attendance",
+        "Consider musical growth, student-reported comfort, voluntary engagement and the cost after school. Set a review date. Adapt or stop what is not helping."
+      ],
+      [
+        "Keep the evidence in proportion",
+        "Music has educational value. No source in this package establishes a music treatment for PDA. Music education, listening and clinical music therapy have different purposes. The linked articles and bibliography explain those distinctions."
+      ]
+    ]
+  },
+  {
+    "slug": "pda-and-capacity",
+    "title": "PDA, Autonomy and Changing Capacity",
+    "deck": "Describe barriers and useful adjustments without making a label the price of support.",
+    "refs": [
+      "pda",
+      "pda2026",
+      "burnout"
+    ],
+    "sections": [
+      [
+        "Language and uncertainty",
+        "PDA commonly means Pathological Demand Avoidance; Persistent Drive for Autonomy is a community reframing some people prefer. PDA is not a standalone DSM-5 or ICD-11 diagnosis. Its boundaries and assessment remain contested."
+      ],
+      [
+        "Ask what the request involves",
+        "Notice timing, uncertainty, sensory conditions, communication, task difficulty and opportunities for choice. Avoidance alone does not identify a cause or a profile. Listen to the student and family."
+      ],
+      [
+        "Offer genuine choices",
+        "Explore instrument, role, repertoire, setting or timing choices. Be clear about safety boundaries. Hidden expectations and choices backed by threats can add pressure. Review which adjustments actually help this student."
+      ],
+      [
+        "Plan for today",
+        "A learned skill may be difficult to use in a particular setting. Offer listening, exploring or creating as meaningful options; they are not levels to earn. Long-term changes in functioning deserve appropriate team attention."
+      ],
+      [
+        "Evidence boundary",
+        "PDA reviews highlight major methodological limits. Adult autistic-burnout accounts cannot diagnose a child’s difficult day. These educational adjustments are proposals, not proven PDA treatment."
+      ]
+    ]
+  },
+  {
+    "slug": "music-benefits",
+    "title": "The Brain Science of Music: Careful Claims",
+    "deck": "A credible case for access includes the limits of the evidence.",
+    "refs": [
+      "inhibition",
+      "development",
+      "stress",
+      "therapy",
+      "transfer"
+    ],
+    "sections": [
+      [
+        "What the research suggests",
+        "Controlled longitudinal studies support a possible benefit for inhibitory control. Longitudinal auditory findings and stress-intervention findings involve different activities and outcomes. None guarantees broad academic improvement."
+      ],
+      [
+        "What it does not establish",
+        "Brain changes do not by themselves prove better grades. Broad cognitive and academic transfer is challenged by a major meta-analysis. No source in this package proves a music intervention for PDA."
+      ],
+      [
+        "Keep services distinct",
+        "Music education teaches musical learning. Clinical music therapy requires qualified specialist practice. Cochrane findings about music therapy cannot automatically be applied to ordinary classroom music."
+      ],
+      [
+        "Ask about this student",
+        "Music may be enjoyable, expressive, overwhelming or some combination. Review the setting, volume, task and social demands with the student. Quiet is also a valid choice."
+      ],
+      [
+        "Protect the educational case",
+        "Students deserve opportunities to make and understand music whether or not other outcomes improve. Begin with musical learning, accessibility and the student’s interests."
+      ]
+    ]
+  },
+  {
+    "slug": "failure-first",
+    "title": "Failure First: A Staff Conversation",
+    "deck": "Sarah’s proposed approach: normalize mistakes and teach recovery.",
+    "refs": [
+      "errors",
+      "training",
+      "compassion"
+    ],
+    "sections": [
+      [
+        "Remove the moral judgement",
+        "“That entrance was late” describes an event. “You never try” judges a person. Keep the musical goal while making the next step teachable."
+      ],
+      [
+        "Use a recovery routine",
+        "Notice the attempt. Describe a barrier. Choose a strategy. Retry, adapt or pause. Reflect when the student is ready. Model your own ordinary learning mistakes without staging humiliating failures."
+      ],
+      [
+        "Offer concrete support",
+        "An illustrative response: “Would marking the rest or hearing the cue help?” Offer privacy and a manageable task. Repeating the same difficult task without support is not automatically productive learning."
+      ],
+      [
+        "Keep responsibility usable",
+        "Feedback, safety boundaries and repair still matter. Separate actions from identity, and support problem-solving at a workable time."
+      ],
+      [
+        "Evidence boundary",
+        "Error-climate, training and self-compassion research inform the approach. They do not independently validate Failure First in music or establish mental-health effects for students with PDA."
+      ]
+    ]
+  },
+  {
+    "slug": "music-and-rumination",
+    "title": "Music, Singing and Repetitive Thoughts",
+    "deck": "Explore a possible reprieve without promising to switch worry off.",
+    "refs": [
+      "singing",
+      "memory",
+      "recovery"
+    ],
+    "sections": [
+      [
+        "Use the accurate claim",
+        "Singing may offer some people a temporary break from worry. Research does not establish that worrying while singing is impossible. Adult singing findings and memory experiments do not prove a PDA-specific intervention."
+      ],
+      [
+        "Offer, do not prescribe",
+        "Options might include private humming, a familiar instrumental pattern, beat-making, chosen listening or quiet. Agree on volume, setting, supervision and how to stop. Public singing may increase anxiety for some students."
+      ],
+      [
+        "Ask about the effect",
+        "An optional check-in: more settled, the same or more stirred up? Do not require disclosure of private thoughts. Notice delayed exhaustion as well as immediate responses."
+      ],
+      [
+        "Mood and rumination differ",
+        "A randomized listening experiment improved mood without a significant between-condition difference in rumination. Feeling better does not prove that repetitive thoughts stopped."
+      ],
+      [
+        "Address the environment",
+        "Keep appropriate mental-health support available. Music does not remove bullying or other ongoing causes of distress. Change the conditions as well as offering ways to cope."
+      ]
+    ]
+  },
+  {
+    "slug": "implementation",
+    "title": "A Music Support Schools Can Actually Run",
+    "deck": "Choose a feasible route and give someone responsibility for making it accessible.",
+    "refs": [
+      "udl"
+    ],
+    "sections": [
+      [
+        "Protect curricular music",
+        "Review adapted parts, accessible notation, practice support and assessment options. Keep meaningful teaching in every role. Composition and technical work should be choices with instruction, not permanent assignments based on assumptions."
+      ],
+      [
+        "Explore additional routes",
+        "Consider a low-pressure club, supervised open room, student-led band, songwriting, rhythm and movement or digital production. Preserve quiet alternatives and check which activities the student wants."
+      ],
+      [
+        "Make access concrete",
+        "Agree on staffing, timetable, instruments, fees, transport, sound levels and a backup plan. Check physical and communication access. A room that exists is not automatically a room the student can use."
+      ],
+      [
+        "Name the purpose",
+        "Is this curriculum instruction, an agreed regulation break, leisure or clinical music therapy? Clarify the purpose so assessment and access match it. Consult a qualified therapist for clinical goals."
+      ],
+      [
+        "Keep support available",
+        "Do not turn an agreed accommodation into an earned reward. Safety and supervision still apply; when one activity cannot proceed, plan another way to meet the need where possible."
+      ]
+    ]
+  },
+  {
+    "slug": "six-week-pilot",
+    "title": "A Proposed Six-Week Music Pilot",
+    "deck": "A planning framework to adapt together, not a validated treatment protocol.",
+    "refs": [],
+    "sections": [
+      [
+        "Before the pilot",
+        "Choose one opportunity with the student and family. Name an adult coordinator, setting, schedule, sensory adjustments, a pause signal and a backup plan. For example, discuss 15–30 minutes two or three times a week if feasible; adjust to the person and setting."
+      ],
+      [
+        "Week 1: Listen and build trust",
+        "Identify interests, barriers and preferred ways to communicate. Record a brief starting picture with student input. Avoid requiring an audition or disclosure."
+      ],
+      [
+        "Week 2: Explore",
+        "Offer instruments, digital creation, chosen listening or observation. Teach how to use equipment safely. Check whether the invitation itself adds pressure."
+      ],
+      [
+        "Weeks 3–4: Develop",
+        "Support a chosen project and invite collaboration when welcomed. Adapt the amount, setting or feedback. Keep instruction available."
+      ],
+      [
+        "Week 5: Connect if useful",
+        "Explore links to peers, curriculum or an existing ensemble if the student wants them. More activity is not automatically a better outcome."
+      ],
+      [
+        "Week 6: Review and decide",
+        "Ask about musical growth, comfort, engagement, relationships and exhaustion after school. Attendance or quiet behaviour alone is insufficient. Continue, adapt or discontinue; identify who will follow through."
+      ]
+    ]
+  },
+  {
+    "slug": "meeting-checklist",
+    "title": "School Meeting Checklist",
+    "deck": "Turn a general hope into a clear agreement.",
+    "refs": [],
+    "sections": [
+      [
+        "Before the meeting",
+        "Invite the student’s input in an accessible form. Gather strengths, interests, observed barriers and supports that have helped. Share only information needed for planning."
+      ],
+      [
+        "Questions to bring",
+        "What music opportunities already exist? What makes them difficult to access? Which adjustments can we try? Who provides supervision? What are the sound, fee, instrument and transport arrangements?"
+      ],
+      [
+        "Protect the purpose",
+        "Is music a subject, a support or another activity here? Can agreed support remain available when other work is unfinished? What is the backup if the room or adult is unavailable?"
+      ],
+      [
+        "Write down the agreement",
+        "Opportunity: ____________________\nCoordinator: ____________________\nTime and place: ____________________\nChoices and adjustments: ____________________\nPause or stop signal: ____________________\nBackup plan: ____________________"
+      ],
+      [
+        "Set the review",
+        "Review date: ____________________\nStudent’s preferred feedback method: ____________________\nWhat would make us continue, change or stop? Include well-being and learning, not just compliance."
+      ]
+    ]
+  },
+  {
+    "slug": "parent-letter",
+    "title": "A Parent Advocacy Letter to Adapt",
+    "deck": "A generic starting point for a request to a school team.",
+    "refs": [],
+    "letter": "Hello,\n\nI would like to explore the possibility of incorporating music-based supports into my child's educational plan.\n\nFor students with PDA profiles and other neurodivergent learners, traditional approaches to motivation, behaviour management and academic engagement can sometimes create additional barriers rather than remove them.\n\nThere is a growing body of research examining the potential benefits of music education and music-based interventions in areas such as emotional regulation, executive functioning, communication, social connection and engagement.\n\nI have included some educational resources, research and practical programming suggestions for consideration.\n\nI am not suggesting that music is a cure or that it should replace other necessary educational supports. Rather, I would like us to consider whether music could be used as an additional pathway to learning, regulation, connection and school belonging.\n\nSome possibilities I would appreciate discussing include:\n• Access to the music room as a supportive environment.\n• Opportunities to participate in music classes or clubs with appropriate accommodations.\n• Individual or small-group music-making opportunities.\n• Music-based regulation breaks.\n• Incorporating musical interests into curricular learning.\n• A short pilot program to determine which supports are beneficial.\n\nI would also like to discuss how access to these opportunities could be protected from becoming contingent upon behaviour, academic task completion or other unrelated expectations.\n\nMy hope is that we can identify approaches that build on my child's strengths and interests while supporting their well-being and capacity to participate in school.\n\nI would appreciate the opportunity to meet with the school team, including the music educator where possible, to discuss what might be achievable within our existing resources.\n\nThank you for your consideration and willingness to explore additional ways to support my child.",
+    "sections": []
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "errors",
+    "citation": "Dresel et al. (2025; first online 2024). Learning from errors in mathematics classrooms: Development over 2 years in dependence of perceived error climate. British Journal of Educational Psychology, 95, 180–196.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11802964/",
+    "kind": "Longitudinal observational study",
+    "scope": "1,641 students in 69 mathematics classrooms over two years. Positive perceived error climate was associated with less negative development of adaptive error responses. Association in mathematics does not validate Failure First in music.",
+    "checked": "Full text"
+  },
+  {
+    "id": "training",
+    "citation": "Keith & Frese (2008). Effectiveness of error management training: A meta-analysis. Journal of Applied Psychology, 93, 59–69.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18211135/",
+    "kind": "Meta-analysis",
+    "scope": "24 studies, 2,183 participants; positive overall effects, especially on adaptive transfer. Skills-training contexts differ from school music and PDA supports.",
+    "checked": "Abstract"
+  },
+  {
+    "id": "compassion",
+    "citation": "Breines & Chen (2012). Self-compassion increases self-improvement motivation. Personality and Social Psychology Bulletin, 38, 1133–1143.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22645164/",
+    "kind": "Four experiments",
+    "scope": "Compassionate responses to personal shortcomings increased measures of motivation to improve. Not a school music intervention or a long-term student mental-health outcome.",
+    "checked": "Abstract and author-hosted paper"
+  },
+  {
+    "id": "singing",
+    "citation": "Schladt et al. (2017). Choir versus Solo Singing: Effects on Mood, and Salivary Oxytocin and Cortisol Concentrations. Frontiers in Human Neuroscience, 11, 430.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5603757/",
+    "kind": "Adult singing study",
+    "scope": "Reported worry decreased after singing. Adult choir participants; no demonstration that worry is impossible during singing, and no PDA-specific treatment finding.",
+    "checked": "Full text"
+  },
+  {
+    "id": "memory",
+    "citation": "Schendel & Palmer (2007). Suppression effects on musical and verbal memory. Memory & Cognition, 35, 640–650.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17848022/",
+    "kind": "Three laboratory experiments",
+    "scope": "Speaking and singing interfered with sequence-recognition memory. A plausible cognitive connection, not evidence of clinical rumination reduction.",
+    "checked": "Abstract"
+  },
+  {
+    "id": "recovery",
+    "citation": "Radstaak et al. (2014). Music and psychophysiological recovery from stress. Psychosomatic Medicine, 76, 529–537.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25153936/",
+    "kind": "Randomized experiment",
+    "scope": "123 participants; mood improved with music, but rumination did not significantly differ between recovery conditions. Listening is not equivalent to singing or instrumental participation.",
+    "checked": "Abstract"
+  },
+  {
+    "id": "thoughts",
+    "citation": "Watkins (2008). Constructive and unconstructive repetitive thought. Psychological Bulletin, 134, 163–206.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2672052/",
+    "kind": "Theoretical research review",
+    "scope": "Distinguishes helpful and unhelpful repetitive thought. Does not imply that every neurodivergent person has rumination or an inner verbal monologue.",
+    "checked": "Full-text record"
+  },
+  {
+    "id": "mindwandering",
+    "citation": "Taruffi et al. (2017). Effects of Sad and Happy Music on Mind-Wandering and the Default Mode Network. Scientific Reports, 7, 14396.",
+    "url": "https://www.nature.com/articles/s41598-017-14849-0",
+    "kind": "Laboratory experiments",
+    "scope": "Music conditions affected mind-wandering and associated brain activity. Mind-wandering is not synonymous with rumination; this is not a treatment study.",
+    "checked": "Abstract"
+  },
+  {
+    "id": "empowering",
+    "citation": "Koelsch et al. (2019). Heroic music stimulates empowering thoughts during mind-wandering. Scientific Reports, 9, 10317.",
+    "url": "https://www.nature.com/articles/s41598-019-46266-w",
+    "kind": "Laboratory listening study",
+    "scope": "62 participants; music influenced reported thought content. Immediate thought content does not establish lasting self-concept change.",
+    "checked": "Full text"
+  },
+  {
+    "id": "pda",
+    "citation": "Kildahl et al. (2021). Pathological demand avoidance in children and adolescents: A systematic review. Autism, 25, 2162–2176.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34320869/",
+    "kind": "Systematic review",
+    "scope": "13 studies; significant methodological limitations constrain conclusions about the proposed profile. Do not present autonomy supports as a proven PDA treatment.",
+    "checked": "Abstract and publisher findings"
+  },
+  {
+    "id": "pda2026",
+    "citation": "Company & Rotella (2026). A Systematic Review of Pathological Demand Avoidance (PDA): A Veritable Diagnosis or a Case of Circular Logic? Journal of Autism and Developmental Disorders.",
+    "url": "https://link.springer.com/article/10.1007/s10803-026-07432-y",
+    "kind": "Systematic review of diagnostic evidence",
+    "scope": "12 studies; inconsistent identification and high methodological risk of bias. Limits support for diagnostic tools and distinct diagnosis; does not justify dismissing an individual’s distress.",
+    "checked": "Full text"
+  },
+  {
+    "id": "burnout",
+    "citation": "Raymaker et al. (2020). “Having All of Your Internal Resources Exhausted Beyond Measure and Being Left with No Clean-Up Crew”: Defining Autistic Burnout. Autism in Adulthood, 2, 132–143.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7313636/",
+    "kind": "Participatory qualitative research",
+    "scope": "Adult accounts describe exhaustion, loss of skills and reduced tolerance to stimuli. Not a diagnosis of a child’s day-to-day fluctuation.",
+    "checked": "Full-text record"
+  },
+  {
+    "id": "maslow",
+    "citation": "Maslow (1943). A theory of human motivation. Psychological Review, 50, 370–396.",
+    "url": "https://psychclassics.yorku.ca/Maslow/motivation.htm",
+    "kind": "Historical theory",
+    "scope": "Describes relative satisfaction of needs and exceptions to rigid ordering. “Maslow before Bloom” is educational shorthand, not an experimentally established learning sequence.",
+    "checked": "Original paper"
+  },
+  {
+    "id": "rewards",
+    "citation": "Deci, Koestner & Ryan (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. Psychological Bulletin, 125, 627–668.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/10589297/",
+    "kind": "Meta-analysis",
+    "scope": "128 experiments; effects vary with reward arrangements and measures. Does not mean every reward, sticker or form of praise is harmful.",
+    "checked": "Abstract and author-hosted paper"
+  },
+  {
+    "id": "inhibition",
+    "citation": "Jamey et al. (2024). Does music training improve inhibition control in children? A systematic review and meta-analysis. Cognition, 252, 105913.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39197250/",
+    "kind": "Systematic review and meta-analysis",
+    "scope": "22 controlled longitudinal studies, including eight randomized trials; benefits on inhibitory control. Not evidence of universal executive-function or academic improvement, or a PDA treatment.",
+    "checked": "Abstract"
+  },
+  {
+    "id": "development",
+    "citation": "Habibi et al. (2018). Music training and child development: A review of recent findings from a longitudinal study. Annals of the New York Academy of Sciences. DOI: 10.1111/nyas.13606.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29508399/",
+    "kind": "Review of a longitudinal program",
+    "scope": "Musically relevant auditory skills and related brain changes after sustained training. Broad academic gains cannot be inferred from brain differences.",
+    "checked": "Abstract"
+  },
+  {
+    "id": "stress",
+    "citation": "de Witte et al. (2020; first online 2019). Effects of music interventions on stress-related outcomes: A systematic review and two meta-analyses. Health Psychology Review, 14, 294–324.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31167611/",
+    "kind": "Systematic review and meta-analyses",
+    "scope": "104 randomized trials across varied settings; average reductions in psychological and physiological stress measures. Not a guarantee for any individual or school setting.",
+    "checked": "Abstract"
+  },
+  {
+    "id": "therapy",
+    "citation": "Geretsegger et al. (2022). Music therapy for autistic people. Cochrane Database of Systematic Reviews, CD004381.",
+    "url": "https://www.cochrane.org/evidence/CD004381_music-therapy-autistic-people",
+    "kind": "Cochrane systematic review",
+    "scope": "26 studies; probable benefits for overall improvement and quality of life. Social interaction and communication findings remain uncertain. Clinical music therapy is distinct from classroom music.",
+    "checked": "Review and plain-language summary"
+  },
+  {
+    "id": "transfer",
+    "citation": "Sala & Gobet (2020). Cognitive and academic benefits of music training with children: A multilevel meta-analysis. Memory & Cognition, 48, 1429–1441.",
+    "url": "https://link.springer.com/article/10.3758/s13421-020-01060-2",
+    "kind": "Meta-analysis",
+    "scope": "Broad cognitive and academic transfer was null after accounting for design quality. Include this counterpoint alongside more specific positive findings.",
+    "checked": "Full text"
+  },
+  {
+    "id": "udl",
+    "citation": "CAST (2024). Universal Design for Learning Guidelines, version 3.0.",
+    "url": "https://udlguidelines.cast.org/",
+    "kind": "Practice framework, not a research study",
+    "scope": "Options in engagement, representation, and action or expression. Used as design guidance; not evidence that a particular music support works.",
+    "checked": "Official guidance"
+  }
+]
