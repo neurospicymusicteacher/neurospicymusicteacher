@@ -1,33 +1,22 @@
 {
-  "title": "How Can We Advocate for PDA & Neurodivergent Learners?",
-  "audience": "Parents and caregivers of neurodivergent learners, including children with PDA profiles",
-  "purpose": "Advocate for understanding, school-provided supports, growing autonomy and access to inclusive music education",
+  "title": "How Do I Get the School to Understand?",
   "steps": [
     [
-      "start",
-      "What is this guide for?",
-      "Use it to help the education team understand your child, discuss supports across educational settings, explore music inclusion or advocate for new music opportunities. The team provides resources, teaching and access so students can participate now and develop ways to support themselves over time."
+      "1. Pick the thing that needs to change.",
+      "Does staff need to understand your child’s PDA profile? Is getting help too public? Is music missing or hard to access? Choose one starting point. You do not need to solve the whole school experience before sending an email."
     ],
     [
-      "step-1",
-      "Step 1: What do you want the team to understand or change?",
-      "Your starting point might be explaining PDA and your child’s experience, asking for supports in general classrooms, including your child in music or adding music opportunities. Note strengths, what is difficult or missing, and what you hope could become possible."
+      "2. Bring one real example.",
+      "“When they forget a worksheet, they have to ask in front of everyone. They get stuck and the lesson moves on.” That tells the team more than “They need to be more independent.”"
     ],
     [
-      "step-2",
-      "Step 2: What could the team put in place?",
-      "Discuss the resources, adult support and access needed: a student profile, accessible materials, a discreet help signal, adapted music participation or a new inclusive music opportunity. Adults can help students learn to use the arrangements. Ask what is workable and how it can apply across settings."
+      "3. Ask for something the adults can provide.",
+      "“Could there be spare copies in a known place, with someone showing them how to use it?” For music, that might be an instrument loan, an adapted part or teaching time for a new class."
     ],
     [
-      "step-3",
-      "Step 3: Start the conversation",
-      "Contact your child’s teacher or support coordinator. For program development, ask school leadership who should be involved. Share the student’s perspective, one example, your request and a relevant source. Ask the music educator to join where useful."
-    ],
-    [
-      "step-4",
-      "Step 4: Agree on support and review it",
-      "Write down what the team will provide or change, who will help, how students will learn to use it, access across settings, a backup and a review date. Include participation, useful choices, asking for help, musical learning and the support still needed."
+      "4. Write down who will do what.",
+      "Agree on a first step, the adult responsible, a backup and a review date. Ask your child what changed for them. Quietly getting through the day is only part of the picture."
     ]
   ],
-  "editable_message": "Subject: A conversation about support and learning\n\nHello,\n\nI’d like to discuss [what you want the team to understand or change]. This matters because [one example involving your child or the students who could benefit].\n\nCould we explore [your request], including the resources and adult support students would need to take part and learn to use the support?\n\nI’ve included [one relevant article, handout or research source] for discussion. I’d welcome your input on what would be workable.\n\nCould we agree on a first step and a time to review it with student feedback?\n\nThank you.\n"
+  "message": "Subject: Could we talk about [support / music access / a music program]?\n\nHello [name],\n\nI’d like to talk about [what my child or the students need]. At the moment, [one example of what is getting in the way].\n\nCould we explore [specific request]? My hope is that students can [participate, get help, learn music or another goal], with the resources and adult support they need.\n\n[My child says / we have noticed: ...]\n\nI’ve included [one article or handout] to help explain what I mean. I’d appreciate your ideas about what we could put in place.\n\nCould we agree on a first step, who will help and a time to check how it is working?\n\nThank you,\n[Name]"
 }

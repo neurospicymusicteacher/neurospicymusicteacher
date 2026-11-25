@@ -1,256 +1,268 @@
 [
   {
     "slug": "start-here",
-    "title": "What Should We Ask the School For?",
-    "deck": "A quick start for explaining PDA, asking for supports across settings and advocating for music access or programming.",
+    "title": "“Where Do We Even Start?”",
+    "deck": "A quick start for parents asking for PDA support, help across classes, music inclusion or a new school music program.",
+    "article": "understanding-pda",
     "refs": [
       "udl"
     ],
     "sections": [
       [
-        "Step 1: What do you want the team to understand or change?",
-        "Your starting point might be explaining PDA and your child’s experience, asking for supports in general classrooms, including your child in music or adding music opportunities. Note strengths, what is difficult or missing, and what you hope could become possible."
+        "1. Pick the thing that needs to change.",
+        "Does staff need to understand your child’s PDA profile? Is getting help too public? Is music missing or hard to access? Choose one starting point. You do not need to solve the whole school experience before sending an email."
       ],
       [
-        "Step 2: What could the team put in place?",
-        "Discuss the resources, adult support and access needed: a student profile, accessible materials, a discreet help signal, adapted music participation or a new inclusive music opportunity. Adults can help students learn to use the arrangements. Ask what is workable and how it can apply across settings."
+        "2. Bring one real example.",
+        "“When they forget a worksheet, they have to ask in front of everyone. They get stuck and the lesson moves on.” That tells the team more than “They need to be more independent.”"
       ],
       [
-        "Step 3: Start the conversation",
-        "Contact your child’s teacher or support coordinator. For program development, ask school leadership who should be involved. Share the student’s perspective, one example, your request and a relevant source. Ask the music educator to join where useful."
+        "3. Ask for something the adults can provide.",
+        "“Could there be spare copies in a known place, with someone showing them how to use it?” For music, that might be an instrument loan, an adapted part or teaching time for a new class."
       ],
       [
-        "Step 4: Agree on support and review it",
-        "Write down what the team will provide or change, who will help, how students will learn to use it, access across settings, a backup and a review date. Include participation, useful choices, asking for help, musical learning and the support still needed."
+        "4. Write down who will do what.",
+        "Agree on a first step, the adult responsible, a backup and a review date. Ask your child what changed for them. Quietly getting through the day is only part of the picture."
       ]
-    ]
+    ],
+    "prompt": "Could we meet to discuss [barrier] and try [support], so my child can [what they want to do]?"
   },
   {
     "slug": "pda-and-capacity",
-    "title": "PDA, Autonomy and Changing Capacity",
-    "deck": "Describe barriers and useful adjustments without making a label the price of support.",
+    "title": "“But They Did It Yesterday.”",
+    "deck": "A parent handout about PDA, autonomy and why today may need different support.",
+    "article": "understanding-pda",
     "refs": [
       "pda",
-      "pda2026",
       "burnout"
     ],
     "sections": [
       [
-        "Language and uncertainty",
-        "PDA commonly means Pathological Demand Avoidance; Persistent Drive for Autonomy is a community reframing some people prefer. PDA is not a standalone DSM-5 or ICD-11 diagnosis. Its boundaries and assessment remain contested."
+        "Start here: what is PDA?",
+        "PDA usually means Pathological Demand Avoidance. Some people prefer Persistent Drive for Autonomy. Families use it to describe intense difficulty with demands. Researchers are still debating how to define and assess the profile."
       ],
       [
-        "Ask what the request involves",
-        "Notice timing, uncertainty, sensory conditions, communication, task difficulty and opportunities for choice. Avoidance alone does not identify a cause or a profile. Listen to the student and family."
+        "1. Describe what happens, not just the label.",
+        "Does “come and ask me” make getting help harder? Does the same task go differently when the room is quieter? Write down the demand, the setting and what your child says about it."
       ],
       [
-        "Offer genuine choices",
-        "Explore instrument, role, repertoire, setting or timing choices. Be clear about safety boundaries. Hidden expectations and choices backed by threats can add pressure. Review which adjustments actually help this student."
+        "2. Ask for fewer hurdles.",
+        "A shared charger, spare music or instructions on the board can remove a whole conversation. Agree on honest choices: start here or there, use this format or that one. An adult can help your child learn the routine."
       ],
       [
-        "Plan for today",
-        "A learned skill may be difficult to use in a particular setting. Offer listening, exploring or creating as meaningful options; they are not levels to earn. Long-term changes in functioning deserve appropriate team attention."
-      ],
-      [
-        "Evidence boundary",
-        "The PDA reviews explore how the profile has been studied and understood. Autistic adults’ accounts of burnout offer another perspective on changing capacity. Read alongside the child’s own experience and what their family notices."
+        "3. Make room for today.",
+        "Knowing how to do something and being able to manage it right now are different things. Ask what support is available on a harder day. Yesterday is useful information. It is not an invoice due today."
       ]
-    ]
-  },
-  {
-    "slug": "music-benefits",
-    "title": "What Can Music Make Possible?",
-    "deck": "Research to read and share when you’re advocating for music education.",
-    "refs": [
-      "inhibition",
-      "development",
-      "stress",
-      "therapy",
-      "transfer"
     ],
-    "sections": [
-      [
-        "What the research suggests",
-        "Controlled longitudinal studies support a possible benefit for inhibitory control. Longitudinal auditory findings and stress-intervention findings involve different activities and outcomes. None guarantees broad academic improvement."
-      ],
-      [
-        "What about grades and broader learning?",
-        "Music-related brain changes and school grades are different questions. Sala and Gobet examine broader academic and cognitive benefits and find that study design matters to the results. Musical learning has value even when grades elsewhere stay the same."
-      ],
-      [
-        "Keep services distinct",
-        "Music education teaches musical learning. Clinical music therapy requires qualified specialist practice. Cochrane findings about music therapy cannot automatically be applied to ordinary classroom music."
-      ],
-      [
-        "Ask about this student",
-        "Music may be enjoyable, expressive, overwhelming or some combination. Review the setting, volume, task and social demands with the student. Quiet is also a valid choice."
-      ],
-      [
-        "Protect the educational case",
-        "Students deserve opportunities to make and understand music whether or not other outcomes improve. Begin with musical learning, accessibility and the student’s interests."
-      ]
-    ]
+    "prompt": "They know how to [skill]. What seems to get in the way today is [barrier]. Could we try [support]?"
   },
   {
     "slug": "failure-first",
-    "title": "Failure First: A Staff Conversation",
-    "deck": "Making mistakes is part of learning. Let’s teach students what to do next.",
+    "title": "“What If a Mistake Was Just Information?”",
+    "deck": "Help the school teach what to do after something goes wrong, in music and in other classrooms.",
+    "article": "failure-first",
     "refs": [
       "errors",
-      "training",
       "compassion"
     ],
+    "quote": "A wrong note is information.<br/>It is not a character reference.",
     "sections": [
       [
-        "Remove the moral judgement",
-        "“That entrance was late” describes an event. “You never try” judges a person. Keep the musical goal while making the next step teachable."
+        "1. Find out what happens after the mistake.",
+        "When your child loses their place, forgets music or answers incorrectly, what comes next? A correction they can use? A public reminder? Ten minutes trying not to cry? Start with their experience."
       ],
       [
-        "Use a recovery routine",
-        "Notice the attempt. Describe a barrier. Choose a strategy. Retry, adapt or pause. Reflect when the student is ready. Model your own ordinary learning mistakes without staging humiliating failures."
+        "2. Ask for a route back in.",
+        "“That should be F-sharp” gives information. “You never pay attention” adds a judgement. Ask for a clear next step, a quieter cue or a resource they can reach themselves. The spare-music binder should not come with a lecture."
       ],
       [
-        "Offer concrete support",
-        "Try: “Would marking the rest or hearing the cue help?” Offer privacy and a manageable task. Repeating the same difficult task without support is not automatically productive learning."
-      ],
-      [
-        "Keep responsibility usable",
-        "Feedback, safety boundaries and repair still matter. Separate actions from identity, and support problem-solving at a workable time."
-      ],
-      [
-        "Evidence boundary",
-        "The linked studies explore classroom responses to mistakes, learning through errors and self-compassion. These are some of the ideas behind my approach to feedback and recovery."
+        "3. Make the same route available elsewhere.",
+        "If grabbing spare music works in band, could spare worksheets work in math? The other teacher needs to provide the resource and teach the routine, too. “You can do it in band” is not the missing support."
       ]
-    ]
+    ],
+    "prompt": "When [mistake] happens, could the next step be [usable help], so they can get back to learning?"
   },
   {
     "slug": "music-and-rumination",
-    "title": "Music, Singing and Repetitive Thoughts",
-    "deck": "Explore a possible reprieve without promising to switch worry off.",
+    "title": "“Can the Worry Committee Take a Break?”",
+    "deck": "Explore whether music gives your child some breathing room. Let them help decide.",
+    "article": "singing-and-rumination",
     "refs": [
       "singing",
-      "memory",
       "recovery"
     ],
     "sections": [
       [
-        "Could music give the worry a break?",
-        "Some adults report less worry after singing. A student might find a familiar song or musical pattern gives their thoughts a breather, too. Ask what they notice; their experience matters."
+        "1. Ask what already helps.",
+        "A familiar song? A keyboard pattern? Headphones? Quiet? Singing helped reduce reported worry in one adult study, but your child gets a say in what feels useful to them."
       ],
       [
-        "Let the student choose",
-        "Options might include private humming, a familiar instrumental pattern, beat-making, chosen listening or quiet. Agree on volume, setting, supervision and how to stop. Public singing may increase anxiety for some students."
+        "2. Make the option easy to use.",
+        "Could there be an agreed place, time and signal for a short musical break? Sort out supervision and volume beforehand. A student should not have to explain every thought to earn a few minutes of space."
       ],
       [
-        "Ask about the effect",
-        "An optional check-in: more settled, the same or more stirred up? Do not require disclosure of private thoughts. Notice delayed exhaustion as well as immediate responses."
+        "3. Check in without turning it into homework.",
+        "“More settled, the same or more stirred up?” A gesture or a later chat might be enough. They can change their mind. Yesterday’s helpful song is not a lifetime contract."
       ],
       [
-        "Mood and rumination differ",
-        "In one listening experiment, mood improved while rumination did not significantly differ between groups. That’s a useful distinction when we ask a student how the music felt."
-      ],
-      [
-        "Address the environment",
-        "Keep appropriate mental-health support available. Music does not remove bullying or other ongoing causes of distress. Change the conditions as well as offering ways to cope."
+        "And listen to what the worry is about.",
+        "If bullying, noise or another problem keeps causing distress, adults still need to address it. A song does not fix a harmful situation. Keep other needed support available."
       ]
-    ]
+    ],
+    "prompt": "Could we offer [chosen option] at [time/place], with a simple way to start and stop?"
+  },
+  {
+    "slug": "music-benefits",
+    "title": "“What Could Music Make Possible Here?”",
+    "deck": "A short research companion for families advocating for school music. Start with the musical learning.",
+    "article": "music-benefits",
+    "refs": [
+      "development",
+      "inhibition",
+      "transfer"
+    ],
+    "sections": [
+      [
+        "1. Name what students are missing.",
+        "A chance to play, compose, listen, perform or make music with other people. Those are worthwhile things to learn. Your child does not need a higher math mark to justify the instrument."
+      ],
+      [
+        "2. Choose research that fits the conversation.",
+        "Habibi and colleagues follow auditory learning and related brain changes. Jamey and colleagues examine inhibitory control: holding back an automatic response. Sala and Gobet examine broader academic claims. These are different questions, so choose the source that fits your request."
+      ],
+      [
+        "3. Connect it to an actual school opportunity.",
+        "Are you asking for inclusion in an existing class, an instrument loan, a beginner ensemble or a new program? Name the teaching and support needed. “Music is good for kids” is a starting point. A usable class needs time, resources and someone to teach it."
+      ],
+      [
+        "What about music therapy?",
+        "Music-therapy studies involve a different professional service. If you are asking for music education, focus on learning music, participation and access. You can discuss therapy separately when that is what your child needs."
+      ]
+    ],
+    "prompt": "We would like students to have access to [musical learning]. Could we discuss [teaching, resources and support] to make that possible?"
   },
   {
     "slug": "implementation",
-    "title": "A Music Support Schools Can Actually Run",
-    "deck": "Choose a feasible route and give someone responsibility for making it accessible.",
+    "title": "“Everyone Welcome. But Can Everyone Get In?”",
+    "deck": "Turn an invitation to music into something your child can actually use.",
+    "article": "music-access",
     "refs": [
       "udl"
     ],
     "sections": [
       [
-        "Protect curricular music",
-        "Review adapted parts, accessible notation, practice support and assessment options. Keep meaningful teaching in every role. Composition and technical work should be choices with instruction, not permanent assignments based on assumptions."
+        "1. Find the barrier at the door.",
+        "Is it the fee, instrument, noise, transport, audition or instructions? Does your child have to be calm and organised before they can enter the class that might help them feel connected? Ask them what makes joining difficult."
       ],
       [
-        "Explore additional routes",
-        "Consider a low-pressure club, supervised open room, student-led band, songwriting, rhythm and movement or digital production. Preserve quiet alternatives and check which activities the student wants."
+        "2. Ask what the school can change.",
+        "An instrument loan. A marked starting point. A predictable rehearsal plan. An agreed break and a way back in. If your child wants to play trumpet, explore support for trumpet before assigning them a completely different activity."
       ],
       [
-        "Make access concrete",
-        "Agree on staffing, timetable, instruments, fees, transport, sound levels and a backup plan. Check physical and communication access. A room that exists is not automatically a room the student can use."
+        "3. Make the arrangement specific.",
+        "Who helps? Where do they go? When is it available? What happens if the room is locked or the usual adult is away? Write it down. A support nobody can find is doing a fairly poor impression of support."
       ],
       [
-        "Name the purpose",
-        "Is this curriculum instruction, an agreed regulation break, leisure or clinical music therapy? Clarify the purpose so assessment and access match it. Consult a qualified therapist for clinical goals."
-      ],
-      [
-        "Keep support available",
-        "Do not turn an agreed accommodation into an earned reward. Safety and supervision still apply; when one activity cannot proceed, plan another way to meet the need where possible."
+        "For a new music program...",
+        "Ask leadership about a qualified educator, teaching time, space, equipment and costs. A club can be a beginning. Check who can attend, especially if lunch is recovery time or transport rules out staying late."
       ]
-    ]
+    ],
+    "prompt": "What would need to be in place for my child, and other students with similar barriers, to take part?"
   },
   {
     "slug": "six-week-pilot",
-    "title": "What Could We Try Over Six Weeks?",
-    "deck": "A six-week starting plan for the student, family and school team to adapt together.",
+    "title": "“What Could We Try Over Six Weeks?”",
+    "deck": "A flexible starting plan for a school support or music opportunity. Pick a review date, not an independence deadline.",
+    "article": "music-access",
     "refs": [],
     "sections": [
       [
-        "Before the pilot",
-        "Choose one opportunity with the student and family. Name an adult coordinator, setting, schedule, sensory adjustments, a pause signal and a backup plan. For example, discuss 15–30 minutes two or three times a week if feasible; adjust to the person and setting."
+        "Before you start: make it usable.",
+        "Agree on what you are trying, why the student wants it, who provides help and what happens if the first plan is unavailable. Choose a realistic time. There is no magic number of minutes."
       ],
       [
-        "Week 1: Listen and build trust",
-        "Identify interests, barriers and preferred ways to communicate. Record a brief starting picture with student input. Avoid requiring an audition or disclosure."
+        "Weeks 1-2: listen, show and try.",
+        "Ask about interests and barriers. Show the student where resources live and how to get help. Offer a small, workable first experience. Change anything that adds unnecessary pressure."
       ],
       [
-        "Week 2: Explore",
-        "Offer instruments, digital creation, chosen listening or observation. Teach how to use equipment safely. Check whether the invitation itself adds pressure."
+        "Weeks 3-4: keep what helps.",
+        "Build on a chosen activity or useful routine. Keep adult support available. In music, make room for actual teaching and progress on something the student wants to learn."
       ],
       [
-        "Weeks 3–4: Develop",
-        "Support a chosen project and invite collaboration when welcomed. Adapt the amount, setting or feedback. Keep instruction available."
-      ],
-      [
-        "Week 5: Connect if useful",
-        "Explore links to peers, curriculum or an existing ensemble if the student wants them. More activity is not automatically a better outcome."
-      ],
-      [
-        "Week 6: Review and decide",
-        "Ask about musical growth, comfort, engagement, relationships and exhaustion after school. Attendance or quiet behaviour alone is insufficient. Continue, adapt or discontinue; identify who will follow through."
+        "Weeks 5-6: ask what changed.",
+        "Can they take part and get what they need? What do they enjoy? What leaves them exhausted? Ask the student and family, then agree what continues, changes or stops. Six weeks passing does not mean support expires."
       ]
-    ]
+    ],
+    "prompt": "We will try: ____________________<br/>Lead adult: ____________________<br/>Review together on: ____________________"
   },
   {
     "slug": "meeting-checklist",
-    "title": "School Meeting Checklist",
-    "deck": "Turn a general hope into a clear agreement.",
+    "title": "“What Do I Bring to the Meeting?”",
+    "deck": "One example, one useful request and somewhere to write the agreement. No research dissertation required.",
+    "article": "understanding-pda",
     "refs": [],
     "sections": [
       [
-        "Before the meeting",
-        "Invite the student’s input in an accessible form. Gather strengths, interests, observed barriers and supports that have helped. Share only information needed for planning."
+        "Before: bring your child into the conversation.",
+        "Ask what they want adults to understand. They can write, draw, record a thought or ask you to speak for them. Bring a strength, a barrier and something that has helped."
       ],
       [
-        "Questions to bring",
-        "What music opportunities already exist? What makes them difficult to access? Which adjustments can we try? Who provides supervision? What are the sound, fee, instrument and transport arrangements?"
+        "During: ask for something concrete.",
+        "“Could spare worksheets be available without asking?” “What would help them join band?” “Who could help us explore a school music program?” Choose the question that fits your situation."
       ],
       [
-        "Protect the purpose",
-        "Is music a subject, a support or another activity here? Can agreed support remain available when other work is unfinished? What is the backup if the room or adult is unavailable?"
-      ],
-      [
-        "Write down the agreement",
-        "Opportunity: ____________________\nCoordinator: ____________________\nTime and place: ____________________\nChoices and adjustments: ____________________\nPause or stop signal: ____________________\nBackup plan: ____________________"
-      ],
-      [
-        "Set the review",
-        "Review date: ____________________\nStudent’s preferred feedback method: ____________________\nWhat would make us continue, change or stop? Include well-being and learning, not just compliance."
+        "Before you leave: check the details.",
+        "What will the school provide? Who will show your child how to use it? When and where? What is the backup? Choose a review date and a way for your child to tell the team how it is going."
       ]
+    ],
+    "fields": [
+      "The first change we agreed to try:",
+      "Who is responsible, and when it starts:",
+      "The backup plan:",
+      "Review date and how my child will give feedback:"
     ]
   },
   {
     "slug": "parent-letter",
-    "title": "A Parent Advocacy Letter to Adapt",
-    "deck": "A generic starting point for a request to a school team.",
+    "title": "“How Do I Put This Into an Email?”",
+    "deck": "A message to adapt when asking the school about support, music inclusion or a new program.",
+    "article": "understanding-pda",
     "refs": [],
-    "letter": "Hello,\n\nI would like to explore the possibility of incorporating music-based supports into my child's educational plan.\n\nFor students with PDA profiles and other neurodivergent learners, traditional approaches to motivation, behaviour management and academic engagement can sometimes create additional barriers rather than remove them.\n\nThere is a growing body of research examining the potential benefits of music education and music-based interventions in areas such as emotional regulation, executive functioning, communication, social connection and engagement.\n\nI have included some educational resources, research and practical programming suggestions for consideration.\n\nI am not suggesting that music is a cure or that it should replace other necessary educational supports. Rather, I would like us to consider whether music could be used as an additional pathway to learning, regulation, connection and school belonging.\n\nSome possibilities I would appreciate discussing include:\n• Access to the music room as a supportive environment.\n• Opportunities to participate in music classes or clubs with appropriate accommodations.\n• Individual or small-group music-making opportunities.\n• Music-based regulation breaks.\n• Incorporating musical interests into curricular learning.\n• A short pilot program to determine which supports are beneficial.\n\nI would also like to discuss how access to these opportunities could be protected from becoming contingent upon behaviour, academic task completion or other unrelated expectations.\n\nMy hope is that we can identify approaches that build on my child's strengths and interests while supporting their well-being and capacity to participate in school.\n\nI would appreciate the opportunity to meet with the school team, including the music educator where possible, to discuss what might be achievable within our existing resources.\n\nThank you for your consideration and willingness to explore additional ways to support my child.",
-    "sections": []
+    "sections": [
+      [
+        "1. Fill in the parts that matter to you.",
+        "Choose one request. Add an example that helps the team understand it. Attach one useful handout or article if you want to. The entire internet can stay home."
+      ],
+      [
+        "2. Send it to someone who can help move it forward.",
+        "For your child’s support, start with their teacher or support coordinator. For a new music program, ask school leadership who should join the conversation. Include the music educator where relevant."
+      ]
+    ],
+    "letter": "Subject: Could we talk about [support / music access / a music program]?\n\nHello [name],\n\nI’d like to talk about [what my child or the students need]. At the moment, [one example of what is getting in the way].\n\nCould we explore [specific request]? My hope is that students can [participate, get help, learn music or another goal], with the resources and adult support they need.\n\n[My child says / we have noticed: ...]\n\nI’ve included [one article or handout] to help explain what I mean. I’d appreciate your ideas about what we could put in place.\n\nCould we agree on a first step, who will help and a time to check how it is working?\n\nThank you,\n[Name]"
+  },
+  {
+    "slug": "music-for-everyone",
+    "title": "“Does My Child Belong in Music?”",
+    "deck": "Yes. Let’s talk about what makes participation possible, including PDA and neurodivergent learners.",
+    "article": "music-benefits",
+    "refs": [
+      "development",
+      "udl"
+    ],
+    "sections": [
+      [
+        "1. Start with what they want to learn.",
+        "Trumpet? Singing? Making beats? Playing with a group? Music education is a chance to develop something your child cares about. It does not have to earn its place by fixing another subject."
+      ],
+      [
+        "2. Ask for access that means something.",
+        "“They can sit at the back” is not the whole plan. What part can they learn? Who will teach them? Could an adapted part, instrument loan, predictable routine or sound adjustment help them take part?"
+      ],
+      [
+        "3. If music is missing, ask how it could begin.",
+        "A class, ensemble or creative music group needs teaching time, an educator, space and resources. Ask how costs, transport and support will be handled so the same children are not left outside again."
+      ]
+    ],
+    "prompt": "My child wants to [musical goal]. What could we put in place so they can learn and take part?"
   }
 ]

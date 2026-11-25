@@ -31,3 +31,10 @@ Read the ten drafts aloud, supply publishable classroom examples, reconcile them
 ## Parent guide revision
 
 The guide starts without requiring prior article reading. It supports staff understanding PDA and the child, support across educational settings, music inclusion, and new or expanded music opportunities. It emphasizes school-provided resources, adult teaching and growing student autonomy, with help retained according to need. The shortened message and purpose-specific resource links are included.
+
+
+## Parent printables revised 25 November 2026
+
+The main guide is six pages: context, four practical steps and a short resource selector. Ten individual handouts are each one page. The bibliography is a separate four-page reading list. All downloads and the two editable message files were replaced together; stable URLs are retained.
+
+Editable handout wording is in `handouts/content.json`. The current local builder is `work/build_friendly_printables.py`; earlier report-style builders should not be used. Online handouts, the parent guide and the printables page now match the download content. Full-text/abstract checking records remain in the research source data for editorial use, rather than being displayed as parent-facing disclaimers.
