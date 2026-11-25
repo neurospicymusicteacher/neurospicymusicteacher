@@ -5,7 +5,8 @@
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11802964/",
     "kind": "Longitudinal observational study",
     "scope": "1,641 students in 69 mathematics classrooms over two years. Positive perceived error climate was associated with less negative development of adaptive error responses. Association in mathematics does not validate Failure First in music.",
-    "checked": "Full text"
+    "checked": "Full text",
+    "reading_note": "Follows 1,641 students in 69 mathematics classrooms over two years, examining how classroom responses to errors relate to students’ responses to their own mistakes."
   },
   {
     "id": "training",
@@ -13,7 +14,8 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/18211135/",
     "kind": "Meta-analysis",
     "scope": "24 studies, 2,183 participants; positive overall effects, especially on adaptive transfer. Skills-training contexts differ from school music and PDA supports.",
-    "checked": "Abstract"
+    "checked": "Abstract",
+    "reading_note": "Brings together 24 studies involving 2,183 participants. Explores learning through errors, including how people apply what they learn to new tasks."
   },
   {
     "id": "compassion",
@@ -21,7 +23,8 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/22645164/",
     "kind": "Four experiments",
     "scope": "Compassionate responses to personal shortcomings increased measures of motivation to improve. Not a school music intervention or a long-term student mental-health outcome.",
-    "checked": "Abstract and author-hosted paper"
+    "checked": "Abstract and author-hosted paper",
+    "reading_note": "Four experiments exploring whether a compassionate response to a personal shortcoming can support motivation to improve."
   },
   {
     "id": "singing",
@@ -29,7 +32,8 @@
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5603757/",
     "kind": "Adult singing study",
     "scope": "Reported worry decreased after singing. Adult choir participants; no demonstration that worry is impossible during singing, and no PDA-specific treatment finding.",
-    "checked": "Full text"
+    "checked": "Full text",
+    "reading_note": "Compares choir and solo singing in adults, including changes in mood, reported worry and hormone measures."
   },
   {
     "id": "memory",
@@ -37,7 +41,8 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/17848022/",
     "kind": "Three laboratory experiments",
     "scope": "Speaking and singing interfered with sequence-recognition memory. A plausible cognitive connection, not evidence of clinical rumination reduction.",
-    "checked": "Abstract"
+    "checked": "Abstract",
+    "reading_note": "Three laboratory experiments exploring how speaking and singing interact with memory for musical and verbal sequences."
   },
   {
     "id": "recovery",
@@ -45,7 +50,8 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/25153936/",
     "kind": "Randomized experiment",
     "scope": "123 participants; mood improved with music, but rumination did not significantly differ between recovery conditions. Listening is not equivalent to singing or instrumental participation.",
-    "checked": "Abstract"
+    "checked": "Abstract",
+    "reading_note": "A study of 123 participants recovering from stress. Music improved mood; rumination did not significantly differ between recovery conditions."
   },
   {
     "id": "thoughts",
@@ -53,7 +59,8 @@
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2672052/",
     "kind": "Theoretical research review",
     "scope": "Distinguishes helpful and unhelpful repetitive thought. Does not imply that every neurodivergent person has rumination or an inner verbal monologue.",
-    "checked": "Full-text record"
+    "checked": "Full-text record",
+    "reading_note": "A research review exploring when repetitive thinking is helpful and when it becomes unhelpful, including the role of thought content and context."
   },
   {
     "id": "mindwandering",
@@ -61,7 +68,8 @@
     "url": "https://www.nature.com/articles/s41598-017-14849-0",
     "kind": "Laboratory experiments",
     "scope": "Music conditions affected mind-wandering and associated brain activity. Mind-wandering is not synonymous with rumination; this is not a treatment study.",
-    "checked": "Abstract"
+    "checked": "Abstract",
+    "reading_note": "Explores how sad and happy music affect mind-wandering and associated brain activity in laboratory settings."
   },
   {
     "id": "empowering",
@@ -69,7 +77,8 @@
     "url": "https://www.nature.com/articles/s41598-019-46266-w",
     "kind": "Laboratory listening study",
     "scope": "62 participants; music influenced reported thought content. Immediate thought content does not establish lasting self-concept change.",
-    "checked": "Full text"
+    "checked": "Full text",
+    "reading_note": "A listening study with 62 participants, exploring how heroic music influences the thoughts people report while their minds wander."
   },
   {
     "id": "pda",
@@ -77,7 +86,8 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/34320869/",
     "kind": "Systematic review",
     "scope": "13 studies; significant methodological limitations constrain conclusions about the proposed profile. Do not present autonomy supports as a proven PDA treatment.",
-    "checked": "Abstract and publisher findings"
+    "checked": "Abstract and publisher findings",
+    "reading_note": "Reviews 13 studies of demand avoidance in children and adolescents. Discusses how the proposed profile has been described and the research difficulties involved."
   },
   {
     "id": "pda2026",
@@ -85,7 +95,8 @@
     "url": "https://link.springer.com/article/10.1007/s10803-026-07432-y",
     "kind": "Systematic review of diagnostic evidence",
     "scope": "12 studies; inconsistent identification and high methodological risk of bias. Limits support for diagnostic tools and distinct diagnosis; does not justify dismissing an individual’s distress.",
-    "checked": "Full text"
+    "checked": "Full text",
+    "reading_note": "Reviews 12 studies of PDA identification and diagnosis, including inconsistent definitions and methodological concerns."
   },
   {
     "id": "burnout",
@@ -93,7 +104,8 @@
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7313636/",
     "kind": "Participatory qualitative research",
     "scope": "Adult accounts describe exhaustion, loss of skills and reduced tolerance to stimuli. Not a diagnosis of a child’s day-to-day fluctuation.",
-    "checked": "Full-text record"
+    "checked": "Full-text record",
+    "reading_note": "Participatory research drawing on autistic adults’ accounts of burnout, including exhaustion, loss of skills and reduced tolerance to stimuli."
   },
   {
     "id": "maslow",
@@ -101,7 +113,8 @@
     "url": "https://psychclassics.yorku.ca/Maslow/motivation.htm",
     "kind": "Historical theory",
     "scope": "Describes relative satisfaction of needs and exceptions to rigid ordering. “Maslow before Bloom” is educational shorthand, not an experimentally established learning sequence.",
-    "checked": "Original paper"
+    "checked": "Original paper",
+    "reading_note": "The original paper on human motivation and needs, including the flexibility and exceptions within Maslow’s proposed ordering."
   },
   {
     "id": "rewards",
@@ -109,7 +122,8 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/10589297/",
     "kind": "Meta-analysis",
     "scope": "128 experiments; effects vary with reward arrangements and measures. Does not mean every reward, sticker or form of praise is harmful.",
-    "checked": "Abstract and author-hosted paper"
+    "checked": "Abstract and author-hosted paper",
+    "reading_note": "A meta-analysis of 128 experiments examining rewards and intrinsic motivation. Findings vary with the type of reward and how motivation is measured."
   },
   {
     "id": "inhibition",
@@ -117,7 +131,8 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/39197250/",
     "kind": "Systematic review and meta-analysis",
     "scope": "22 controlled longitudinal studies, including eight randomized trials; benefits on inhibitory control. Not evidence of universal executive-function or academic improvement, or a PDA treatment.",
-    "checked": "Abstract"
+    "checked": "Abstract",
+    "reading_note": "A review of 22 controlled longitudinal studies, including eight randomized trials, examining music training and inhibitory control in children."
   },
   {
     "id": "development",
@@ -125,7 +140,8 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/29508399/",
     "kind": "Review of a longitudinal program",
     "scope": "Musically relevant auditory skills and related brain changes after sustained training. Broad academic gains cannot be inferred from brain differences.",
-    "checked": "Abstract"
+    "checked": "Abstract",
+    "reading_note": "Reviews findings from a longitudinal music-training program, including auditory development and related brain changes."
   },
   {
     "id": "stress",
@@ -133,7 +149,8 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/31167611/",
     "kind": "Systematic review and meta-analyses",
     "scope": "104 randomized trials across varied settings; average reductions in psychological and physiological stress measures. Not a guarantee for any individual or school setting.",
-    "checked": "Abstract"
+    "checked": "Abstract",
+    "reading_note": "Brings together 104 randomized trials of music interventions and psychological and physiological stress outcomes across varied settings."
   },
   {
     "id": "therapy",
@@ -141,7 +158,8 @@
     "url": "https://www.cochrane.org/evidence/CD004381_music-therapy-autistic-people",
     "kind": "Cochrane systematic review",
     "scope": "26 studies; probable benefits for overall improvement and quality of life. Social interaction and communication findings remain uncertain. Clinical music therapy is distinct from classroom music.",
-    "checked": "Review and plain-language summary"
+    "checked": "Review and plain-language summary",
+    "reading_note": "A Cochrane review of 26 music-therapy studies with autistic participants. Reports probable benefits for overall improvement and quality of life, with uncertain findings for social interaction and communication."
   },
   {
     "id": "transfer",
@@ -149,7 +167,8 @@
     "url": "https://link.springer.com/article/10.3758/s13421-020-01060-2",
     "kind": "Meta-analysis",
     "scope": "Broad cognitive and academic transfer was null after accounting for design quality. Include this counterpoint alongside more specific positive findings.",
-    "checked": "Full text"
+    "checked": "Full text",
+    "reading_note": "A meta-analysis examining claims that music training improves general cognition and academic achievement. Broad benefits were not found after accounting for study-design quality."
   },
   {
     "id": "udl",
@@ -157,6 +176,7 @@
     "url": "https://udlguidelines.cast.org/",
     "kind": "Practice framework, not a research study",
     "scope": "Options in engagement, representation, and action or expression. Used as design guidance; not evidence that a particular music support works.",
-    "checked": "Official guidance"
+    "checked": "Official guidance",
+    "reading_note": "A practical framework for offering options in engagement, representation, and action or expression. Useful for thinking about access and participation."
   }
 ]
