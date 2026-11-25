@@ -18,12 +18,16 @@ The public entry point remains `/music-pda-neurodiversity.html`; the homepage fo
 
 ## Verification performed
 
-- 500 local link/asset references checked against the repository inventory and generated files; known local anchors checked where source was available. No missing targets found.
+- 549 local link/asset references checked against the repository inventory and generated files; known local anchors checked where source was available. No missing targets found.
 - Ten article pages checked for perspective notes, one main heading and clean heading/paragraph structure.
 - Representative hub, article and printable pages inspected in a browser; narrow layout checked at 390px with no horizontal overflow on those samples. Homepage card navigation verified.
-- All 13 packet pages rendered and visually inspected; individual handouts and letter each fit one page. PDF source links retained.
+- The parent packet was redesigned as a six-page guide: an introduction, four steps and a resource page. All six pages, the one-page Quick Start and Music Is for Everyone handout were rendered and inspected. The detailed reference handouts and bibliography remain separate optional downloads. PDF source links retained.
 - External URL availability checked once per unique URL. Some publishers and tools reject automated HEAD requests; PubMed may serve a verification response. Citation content was separately checked through source records. A request block is not reported as a dead link.
 
 ## Useful author review
 
 Read the ten drafts aloud, supply publishable classroom examples, reconcile them with the missing transcript, and ask a parent and an educator whether they can find a useful starting point quickly. No efficacy claims should be added solely because an example is compelling.
+
+## Parent guide revision
+
+The guide starts without requiring prior article reading. It supports staff understanding PDA and the child, support across educational settings, music inclusion, and new or expanded music opportunities. It emphasizes school-provided resources, adult teaching and growing student autonomy, with help retained according to need. The shortened message and purpose-specific resource links are included.
