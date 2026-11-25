@@ -5,3 +5,10 @@
 .collection-lens{max-width:78ch;border-left:4px solid var(--pink);padding:4px 0 4px 22px;margin:20px 0 24px}.card-clarifier{display:block;font-size:.875rem;font-weight:500;margin-top:4px;text-decoration:none}.hub-card .card-action{line-height:1.5}
 .prose .opening-line{font-family:"Chalkboard SE","Segoe Print","Comic Sans MS",cursive;font-size:clamp(1.65rem,3.5vw,2.4rem);font-weight:700;line-height:1.4;color:var(--navy);padding:24px;border-left:6px solid var(--pink);background:#d7779710;border-radius:0 14px 14px 0;margin:30px 0}.prose .opening-line strong{font-weight:700}@media print{.prose .opening-line{font-size:20pt;break-inside:avoid}}
 .hub-welcome{max-width:78ch}.hub-welcome p{margin:1em 0}.start-here .hub-grid{grid-template-columns:repeat(2,minmax(0,1fr))}@media(max-width:700px){.start-here .hub-grid{grid-template-columns:1fr}}
+
+/* Author photo sits beside the perspective, with the text setting the row height. */
+.collection-lens{max-width:none;display:grid;grid-template-columns:120px minmax(0,1fr);gap:24px;align-items:start}
+.collection-portrait{position:relative;align-self:stretch;min-height:0}
+.collection-portrait img{position:absolute;top:0;left:0;display:block;width:100%;height:auto;aspect-ratio:1;max-height:100%;object-fit:cover;object-position:55% 42%;border-radius:14px;border:1px solid #d7779780}
+.collection-lens-copy{min-width:0}.collection-lens-copy p:first-child{margin-top:0}.collection-lens-copy p:last-child{margin-bottom:0}
+@media(max-width:520px){.collection-lens{grid-template-columns:86px minmax(0,1fr);gap:14px;padding-left:14px}.collection-portrait img{border-radius:10px}}
